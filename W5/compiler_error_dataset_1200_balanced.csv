@@ -1,0 +1,1201 @@
+error_id,language,compiler,error_message,category
+1,C++,Clang,invalid token 'obj',Lexical
+2,Python,Python,invalid character 'num' in identifier,Lexical
+3,Python,Python,unexpected character '?',Lexical
+4,Python,Python,invalid suffix '?' on integer constant,Lexical
+5,C++,GCC,invalid token 'num',Lexical
+6,C++,GCC,invalid suffix '^' on integer constant,Lexical
+7,Python,Python,invalid character '@' in identifier,Lexical
+8,C,Clang,invalid token '@',Lexical
+9,C++,Clang,invalid token '!',Lexical
+10,C,GCC,invalid token 'data',Lexical
+11,Python,Python,invalid token 'data',Lexical
+12,Python,Python,stray 'value' in program,Lexical
+13,C,Clang,unexpected character 'temp',Lexical
+14,C,GCC,invalid token 'value',Lexical
+15,C++,Clang,invalid token '&',Lexical
+16,C,GCC,stray 'ptr' in program,Lexical
+17,Python,Python,invalid token '%',Lexical
+18,C,GCC,invalid character '^' in identifier,Lexical
+19,C++,Clang,invalid token 'ptr',Lexical
+20,Python,Python,stray '?' in program,Lexical
+21,Python,Python,invalid token '^',Lexical
+22,C++,GCC,unexpected character 'index',Lexical
+23,C,GCC,invalid character 'var' in identifier,Lexical
+24,Python,Python,unexpected character '^',Lexical
+25,C++,GCC,invalid character '@' in identifier,Lexical
+26,C++,GCC,invalid token 'num',Lexical
+27,C++,Clang,invalid character 'var' in identifier,Lexical
+28,C,Clang,stray 'value' in program,Lexical
+29,Python,Python,invalid character 'num' in identifier,Lexical
+30,C,Clang,invalid token 'temp',Lexical
+31,Python,Python,invalid token 'value',Lexical
+32,Python,Python,invalid suffix '#' on integer constant,Lexical
+33,Python,Python,stray 'temp' in program,Lexical
+34,C++,GCC,invalid character '%' in identifier,Lexical
+35,Python,Python,invalid suffix '!' on integer constant,Lexical
+36,C,Clang,unexpected character '#',Lexical
+37,Python,Python,invalid token '^',Lexical
+38,C,GCC,invalid token '#',Lexical
+39,C,GCC,invalid character 'ptr' in identifier,Lexical
+40,C,Clang,unexpected character '#',Lexical
+41,C++,GCC,invalid suffix 'value' on integer constant,Lexical
+42,C,GCC,invalid token 'obj',Lexical
+43,C++,Clang,invalid suffix '^' on integer constant,Lexical
+44,Python,Python,invalid token '@',Lexical
+45,Python,Python,invalid suffix 'value' on integer constant,Lexical
+46,Python,Python,invalid suffix 'ptr' on integer constant,Lexical
+47,C,GCC,invalid suffix '@' on integer constant,Lexical
+48,C,Clang,invalid token 'index',Lexical
+49,C++,Clang,invalid character 'var' in identifier,Lexical
+50,Python,Python,unexpected character 'index',Lexical
+51,Python,Python,invalid character '$' in identifier,Lexical
+52,C++,Clang,invalid token 'num',Lexical
+53,Python,Python,invalid character 'ptr' in identifier,Lexical
+54,C,Clang,invalid token 'temp',Lexical
+55,C++,GCC,stray '*' in program,Lexical
+56,C,Clang,stray '#' in program,Lexical
+57,C,GCC,invalid token 'num',Lexical
+58,C,Clang,invalid token 'ptr',Lexical
+59,Python,Python,stray 'ptr' in program,Lexical
+60,C,GCC,invalid token '%',Lexical
+61,Python,Python,stray '$' in program,Lexical
+62,C++,GCC,invalid character '&' in identifier,Lexical
+63,C,GCC,invalid token 'ptr',Lexical
+64,C,GCC,invalid suffix 'data' on integer constant,Lexical
+65,C++,GCC,invalid character 'num' in identifier,Lexical
+66,Python,Python,unexpected character '#',Lexical
+67,C++,GCC,invalid character '%' in identifier,Lexical
+68,C,Clang,invalid character 'ptr' in identifier,Lexical
+69,Python,Python,invalid suffix 'obj' on integer constant,Lexical
+70,C,Clang,unexpected character 'obj',Lexical
+71,C++,Clang,stray 'num' in program,Lexical
+72,C++,Clang,invalid character 'temp' in identifier,Lexical
+73,C++,Clang,invalid suffix '#' on integer constant,Lexical
+74,C++,GCC,invalid suffix 'num' on integer constant,Lexical
+75,C,GCC,unexpected character '#',Lexical
+76,C,GCC,stray '#' in program,Lexical
+77,C,GCC,stray '^' in program,Lexical
+78,Python,Python,invalid character 'obj' in identifier,Lexical
+79,C++,GCC,invalid suffix 'temp' on integer constant,Lexical
+80,Python,Python,invalid character 'index' in identifier,Lexical
+81,C,Clang,invalid suffix 'temp' on integer constant,Lexical
+82,C++,GCC,stray 'obj' in program,Lexical
+83,C,Clang,invalid token 'num',Lexical
+84,Python,Python,invalid suffix '!' on integer constant,Lexical
+85,C++,Clang,invalid suffix '#' on integer constant,Lexical
+86,C++,GCC,invalid token '#',Lexical
+87,Python,Python,invalid character '$' in identifier,Lexical
+88,Python,Python,unexpected character 'var',Lexical
+89,Python,Python,invalid token 'var',Lexical
+90,C++,GCC,unexpected character '^',Lexical
+91,C++,GCC,invalid token '!',Lexical
+92,C,GCC,invalid suffix '@' on integer constant,Lexical
+93,C,Clang,unexpected character '#',Lexical
+94,Python,Python,invalid character '#' in identifier,Lexical
+95,C,Clang,stray 'num' in program,Lexical
+96,C++,GCC,unexpected character '#',Lexical
+97,C,GCC,stray '^' in program,Lexical
+98,Python,Python,invalid character 'obj' in identifier,Lexical
+99,C,GCC,unexpected character 'temp',Lexical
+100,Python,Python,stray 'temp' in program,Lexical
+101,Python,Python,invalid character '!' in identifier,Lexical
+102,C++,GCC,unexpected character '&',Lexical
+103,C,GCC,invalid token 'ptr',Lexical
+104,C++,GCC,invalid character '#' in identifier,Lexical
+105,C++,Clang,unexpected character '?',Lexical
+106,Python,Python,stray 'ptr' in program,Lexical
+107,C++,Clang,unexpected character 'value',Lexical
+108,C,GCC,unexpected character 'var',Lexical
+109,C++,GCC,invalid token '#',Lexical
+110,C,Clang,unexpected character 'var',Lexical
+111,Python,Python,stray '%' in program,Lexical
+112,C++,GCC,unexpected character '*',Lexical
+113,Python,Python,invalid character 'obj' in identifier,Lexical
+114,C++,Clang,invalid token 'index',Lexical
+115,Python,Python,unexpected character '?',Lexical
+116,C++,GCC,unexpected character 'ptr',Lexical
+117,Python,Python,stray '$' in program,Lexical
+118,Python,Python,stray 'obj' in program,Lexical
+119,C,Clang,invalid character '#' in identifier,Lexical
+120,C++,GCC,invalid character '*' in identifier,Lexical
+121,C++,GCC,invalid suffix 'num' on integer constant,Lexical
+122,C,Clang,invalid suffix '#' on integer constant,Lexical
+123,Python,Python,stray '!' in program,Lexical
+124,Python,Python,stray 'value' in program,Lexical
+125,C++,Clang,invalid token '#',Lexical
+126,Python,Python,invalid character 'data' in identifier,Lexical
+127,Python,Python,invalid suffix '#' on integer constant,Lexical
+128,Python,Python,unexpected character '@',Lexical
+129,C,GCC,unexpected character '!',Lexical
+130,Python,Python,invalid token '*',Lexical
+131,Python,Python,invalid token '%',Lexical
+132,C,GCC,invalid suffix 'temp' on integer constant,Lexical
+133,C++,GCC,invalid suffix 'index' on integer constant,Lexical
+134,Python,Python,unexpected character '?',Lexical
+135,C++,GCC,invalid suffix 'var' on integer constant,Lexical
+136,C++,GCC,stray '&' in program,Lexical
+137,Python,Python,invalid character 'var' in identifier,Lexical
+138,Python,Python,unexpected character '^',Lexical
+139,Python,Python,unexpected character 'data',Lexical
+140,Python,Python,invalid suffix '#' on integer constant,Lexical
+141,C++,Clang,invalid character '?' in identifier,Lexical
+142,Python,Python,invalid suffix 'var' on integer constant,Lexical
+143,Python,Python,stray '^' in program,Lexical
+144,Python,Python,invalid token 'temp',Lexical
+145,C,Clang,unexpected character '!',Lexical
+146,C,Clang,invalid suffix '$' on integer constant,Lexical
+147,C++,Clang,invalid token 'var',Lexical
+148,C++,GCC,stray 'value' in program,Lexical
+149,C,Clang,stray '@' in program,Lexical
+150,Python,Python,invalid suffix '^' on integer constant,Lexical
+151,C,GCC,invalid character '%' in identifier,Lexical
+152,C,GCC,invalid token 'temp',Lexical
+153,C++,GCC,invalid character '?' in identifier,Lexical
+154,C,GCC,invalid token '#',Lexical
+155,Python,Python,invalid suffix 'data' on integer constant,Lexical
+156,Python,Python,stray '?' in program,Lexical
+157,Python,Python,invalid token '#',Lexical
+158,C++,Clang,invalid token '#',Lexical
+159,Python,Python,invalid suffix 'num' on integer constant,Lexical
+160,C++,Clang,invalid character '*' in identifier,Lexical
+161,C,Clang,invalid character 'obj' in identifier,Lexical
+162,Python,Python,invalid suffix '$' on integer constant,Lexical
+163,C,Clang,invalid character '&' in identifier,Lexical
+164,Python,Python,unexpected character '%',Lexical
+165,C++,Clang,invalid suffix '#' on integer constant,Lexical
+166,C++,GCC,invalid token '@',Lexical
+167,Python,Python,unexpected character '%',Lexical
+168,C,GCC,stray '#' in program,Lexical
+169,Python,Python,unexpected character '^',Lexical
+170,C++,Clang,stray 'temp' in program,Lexical
+171,C++,GCC,invalid character '$' in identifier,Lexical
+172,Python,Python,stray '^' in program,Lexical
+173,C++,GCC,stray '#' in program,Lexical
+174,C,Clang,invalid suffix '?' on integer constant,Lexical
+175,C++,GCC,invalid suffix '^' on integer constant,Lexical
+176,C++,GCC,invalid suffix '&' on integer constant,Lexical
+177,Python,Python,unexpected character '&',Lexical
+178,Python,Python,invalid token 'ptr',Lexical
+179,Python,Python,invalid character 'data' in identifier,Lexical
+180,Python,Python,invalid token 'data',Lexical
+181,C,GCC,invalid token '@',Lexical
+182,C,GCC,invalid suffix '^' on integer constant,Lexical
+183,C,Clang,invalid suffix '?' on integer constant,Lexical
+184,C,GCC,invalid character 'temp' in identifier,Lexical
+185,C++,GCC,invalid suffix '!' on integer constant,Lexical
+186,C++,GCC,unexpected character 'value',Lexical
+187,C++,GCC,unexpected character '^',Lexical
+188,C,Clang,unexpected character '@',Lexical
+189,C,Clang,invalid suffix 'temp' on integer constant,Lexical
+190,C++,GCC,invalid character 'ptr' in identifier,Lexical
+191,Python,Python,invalid suffix 'obj' on integer constant,Lexical
+192,C++,GCC,unexpected character '@',Lexical
+193,Python,Python,invalid token '^',Lexical
+194,C,Clang,stray 'data' in program,Lexical
+195,C,GCC,invalid character 'obj' in identifier,Lexical
+196,C++,Clang,stray 'num' in program,Lexical
+197,Python,Python,invalid suffix 'data' on integer constant,Lexical
+198,C++,Clang,invalid character '?' in identifier,Lexical
+199,Python,Python,unexpected character 'value',Lexical
+200,C,GCC,invalid token '&',Lexical
+201,C++,GCC,unexpected character 'index',Lexical
+202,C++,Clang,invalid token '&',Lexical
+203,Python,Python,invalid character 'num' in identifier,Lexical
+204,C++,GCC,unexpected character '%',Lexical
+205,C,GCC,invalid suffix '*' on integer constant,Lexical
+206,C++,Clang,unexpected character '*',Lexical
+207,C,Clang,unexpected character '*',Lexical
+208,C,GCC,stray '^' in program,Lexical
+209,C,GCC,stray 'index' in program,Lexical
+210,Python,Python,invalid suffix 'data' on integer constant,Lexical
+211,C++,GCC,invalid suffix '?' on integer constant,Lexical
+212,C++,Clang,invalid suffix '@' on integer constant,Lexical
+213,Python,Python,unexpected character 'obj',Lexical
+214,Python,Python,unexpected character 'obj',Lexical
+215,C++,Clang,invalid token '?',Lexical
+216,C++,GCC,invalid token 'temp',Lexical
+217,C,GCC,invalid token 'temp',Lexical
+218,C,Clang,invalid character '^' in identifier,Lexical
+219,C,Clang,invalid token 'data',Lexical
+220,Python,Python,invalid suffix 'ptr' on integer constant,Lexical
+221,Python,Python,invalid character '^' in identifier,Lexical
+222,Python,Python,stray '^' in program,Lexical
+223,Python,Python,invalid character '#' in identifier,Lexical
+224,Python,Python,invalid character 'obj' in identifier,Lexical
+225,Python,Python,invalid character '$' in identifier,Lexical
+226,Python,Python,stray '$' in program,Lexical
+227,C++,Clang,stray 'value' in program,Lexical
+228,C++,GCC,unexpected character '@',Lexical
+229,Python,Python,invalid suffix 'temp' on integer constant,Lexical
+230,Python,Python,stray 'value' in program,Lexical
+231,C,GCC,stray '&' in program,Lexical
+232,Python,Python,invalid suffix '^' on integer constant,Lexical
+233,C++,GCC,invalid suffix '?' on integer constant,Lexical
+234,C,GCC,invalid token '%',Lexical
+235,Python,Python,invalid token 'ptr',Lexical
+236,C,GCC,invalid character 'temp' in identifier,Lexical
+237,C,GCC,unexpected character 'obj',Lexical
+238,C,GCC,invalid token 'temp',Lexical
+239,C,Clang,stray '!' in program,Lexical
+240,C,Clang,stray 'temp' in program,Lexical
+241,C,GCC,invalid token '#',Lexical
+242,C++,GCC,unexpected character 'var',Lexical
+243,C,GCC,stray '@' in program,Lexical
+244,C++,Clang,stray '&' in program,Lexical
+245,Python,Python,invalid character 'ptr' in identifier,Lexical
+246,C++,GCC,unexpected character '!',Lexical
+247,C++,GCC,invalid suffix '^' on integer constant,Lexical
+248,C++,GCC,invalid suffix 'temp' on integer constant,Lexical
+249,C++,GCC,unexpected character '&',Lexical
+250,Python,Python,invalid token '@',Lexical
+251,Python,Python,unexpected character '*',Lexical
+252,Python,Python,unexpected character 'data',Lexical
+253,Python,Python,invalid token '@',Lexical
+254,C++,GCC,unexpected character 'index',Lexical
+255,C++,Clang,invalid character '&' in identifier,Lexical
+256,Python,Python,invalid token 'num',Lexical
+257,Python,Python,stray '!' in program,Lexical
+258,C++,Clang,stray '*' in program,Lexical
+259,C++,GCC,invalid suffix '@' on integer constant,Lexical
+260,Python,Python,invalid character 'temp' in identifier,Lexical
+261,C,Clang,invalid suffix 'var' on integer constant,Lexical
+262,C,Clang,unexpected character '!',Lexical
+263,C++,GCC,unexpected character '^',Lexical
+264,Python,Python,unexpected character 'data',Lexical
+265,C,GCC,unexpected character '?',Lexical
+266,C,Clang,invalid character '@' in identifier,Lexical
+267,C,GCC,invalid token '%',Lexical
+268,Python,Python,stray 'obj' in program,Lexical
+269,C++,Clang,invalid token 'value',Lexical
+270,Python,Python,unexpected character '!',Lexical
+271,C,Clang,invalid character 'data' in identifier,Lexical
+272,Python,Python,stray '%' in program,Lexical
+273,Python,Python,unexpected character '&',Lexical
+274,Python,Python,invalid character 'temp' in identifier,Lexical
+275,C++,Clang,unexpected character 'value',Lexical
+276,C,Clang,invalid suffix '$' on integer constant,Lexical
+277,C++,Clang,invalid token 'var',Lexical
+278,C++,GCC,invalid suffix '&' on integer constant,Lexical
+279,Python,Python,invalid character '#' in identifier,Lexical
+280,C++,Clang,invalid token 'value',Lexical
+281,Python,Python,invalid suffix '^' on integer constant,Lexical
+282,C++,GCC,unexpected character '&',Lexical
+283,C,Clang,unexpected character 'data',Lexical
+284,C++,Clang,unexpected character 'data',Lexical
+285,C,Clang,invalid token '!',Lexical
+286,C,Clang,invalid character '&' in identifier,Lexical
+287,C,GCC,invalid token 'num',Lexical
+288,Python,Python,unexpected character 'ptr',Lexical
+289,Python,Python,invalid token '*',Lexical
+290,C++,GCC,invalid suffix 'value' on integer constant,Lexical
+291,C,Clang,stray 'temp' in program,Lexical
+292,C++,Clang,unexpected character 'ptr',Lexical
+293,C++,Clang,invalid suffix 'var' on integer constant,Lexical
+294,C,Clang,invalid suffix '!' on integer constant,Lexical
+295,Python,Python,stray '!' in program,Lexical
+296,C,Clang,stray 'value' in program,Lexical
+297,Python,Python,invalid token '&',Lexical
+298,Python,Python,invalid character '$' in identifier,Lexical
+299,C++,Clang,invalid token 'index',Lexical
+300,C,Clang,stray '&' in program,Lexical
+301,C++,GCC,invalid character '!' in identifier,Lexical
+302,Python,Python,invalid character '!' in identifier,Lexical
+303,C,GCC,invalid token '$',Lexical
+304,Python,Python,invalid character '@' in identifier,Lexical
+305,Python,Python,invalid character '%' in identifier,Lexical
+306,Python,Python,invalid token 'data',Lexical
+307,C++,GCC,unexpected character '%',Lexical
+308,Python,Python,invalid character 'num' in identifier,Lexical
+309,C++,GCC,invalid token 'data',Lexical
+310,C,GCC,invalid suffix '#' on integer constant,Lexical
+311,Python,Python,unexpected character '%',Lexical
+312,C,Clang,unexpected character '?',Lexical
+313,C++,GCC,unexpected character '#',Lexical
+314,C,GCC,stray 'value' in program,Lexical
+315,C,Clang,invalid suffix '&' on integer constant,Lexical
+316,C,Clang,invalid token 'index',Lexical
+317,C,Clang,unexpected character '^',Lexical
+318,C,Clang,unexpected character '^',Lexical
+319,C,GCC,stray '^' in program,Lexical
+320,C++,GCC,invalid suffix '#' on integer constant,Lexical
+321,Python,Python,stray 'var' in program,Lexical
+322,Python,Python,invalid suffix '*' on integer constant,Lexical
+323,C++,Clang,invalid suffix '?' on integer constant,Lexical
+324,C++,GCC,unexpected character '&',Lexical
+325,C,Clang,unexpected character 'temp',Lexical
+326,Python,Python,stray 'num' in program,Lexical
+327,C,Clang,unexpected character 'num',Lexical
+328,Python,Python,invalid suffix '!' on integer constant,Lexical
+329,C++,Clang,invalid character 'data' in identifier,Lexical
+330,C,GCC,stray 'ptr' in program,Lexical
+331,Python,Python,stray '*' in program,Lexical
+332,C,GCC,stray 'var' in program,Lexical
+333,C++,GCC,unexpected character 'data',Lexical
+334,C,Clang,invalid token '&',Lexical
+335,C++,Clang,invalid character 'value' in identifier,Lexical
+336,C,GCC,stray '&' in program,Lexical
+337,C,Clang,unexpected character 'obj',Lexical
+338,C++,Clang,invalid suffix 'temp' on integer constant,Lexical
+339,Python,Python,stray '#' in program,Lexical
+340,Python,Python,invalid character '@' in identifier,Lexical
+341,C++,Clang,invalid token '*',Lexical
+342,Python,Python,invalid token '@',Lexical
+343,C,GCC,invalid character 'num' in identifier,Lexical
+344,C,GCC,invalid suffix 'value' on integer constant,Lexical
+345,C,GCC,invalid character '&' in identifier,Lexical
+346,Python,Python,unexpected character 'index',Lexical
+347,C++,GCC,unexpected character '%',Lexical
+348,Python,Python,invalid character 'index' in identifier,Lexical
+349,Python,Python,invalid suffix 'obj' on integer constant,Lexical
+350,C,Clang,invalid character '@' in identifier,Lexical
+351,C,Clang,invalid character '*' in identifier,Lexical
+352,Python,Python,invalid character 'index' in identifier,Lexical
+353,C,Clang,invalid token '?',Lexical
+354,C,GCC,invalid suffix 'temp' on integer constant,Lexical
+355,C++,Clang,stray '&' in program,Lexical
+356,C,GCC,invalid token 'ptr',Lexical
+357,C++,GCC,invalid suffix '$' on integer constant,Lexical
+358,Python,Python,stray 'index' in program,Lexical
+359,C,GCC,invalid token '^',Lexical
+360,C++,Clang,invalid token '#',Lexical
+361,Python,Python,stray 'ptr' in program,Lexical
+362,Python,Python,stray 'ptr' in program,Lexical
+363,Python,Python,invalid suffix 'num' on integer constant,Lexical
+364,C,Clang,invalid suffix 'temp' on integer constant,Lexical
+365,C++,GCC,unexpected character 'ptr',Lexical
+366,C,Clang,invalid suffix '&' on integer constant,Lexical
+367,Python,Python,stray '*' in program,Lexical
+368,Python,Python,invalid suffix 'var' on integer constant,Lexical
+369,C++,GCC,invalid suffix 'data' on integer constant,Lexical
+370,C,Clang,invalid character '@' in identifier,Lexical
+371,C++,GCC,unexpected character '!',Lexical
+372,Python,Python,unexpected character 'num',Lexical
+373,Python,Python,stray '%' in program,Lexical
+374,C,Clang,invalid suffix '%' on integer constant,Lexical
+375,Python,Python,invalid token '*',Lexical
+376,C++,GCC,stray '?' in program,Lexical
+377,C,Clang,stray 'var' in program,Lexical
+378,C++,Clang,invalid suffix '^' on integer constant,Lexical
+379,Python,Python,invalid character 'num' in identifier,Lexical
+380,C,GCC,invalid suffix '%' on integer constant,Lexical
+381,Python,Python,invalid token '@',Lexical
+382,Python,Python,invalid token '^',Lexical
+383,C,Clang,stray '!' in program,Lexical
+384,C++,GCC,invalid token '*',Lexical
+385,Python,Python,unexpected character 'data',Lexical
+386,Python,Python,invalid character '$' in identifier,Lexical
+387,C,GCC,invalid character 'ptr' in identifier,Lexical
+388,C,Clang,unexpected character '?',Lexical
+389,Python,Python,invalid token 'data',Lexical
+390,C++,GCC,stray '$' in program,Lexical
+391,C,GCC,stray '#' in program,Lexical
+392,C++,GCC,invalid suffix 'obj' on integer constant,Lexical
+393,C++,Clang,invalid token 'value',Lexical
+394,C++,Clang,unexpected character '@',Lexical
+395,C,Clang,unexpected character 'obj',Lexical
+396,C,Clang,stray 'index' in program,Lexical
+397,C++,Clang,invalid suffix '$' on integer constant,Lexical
+398,C++,GCC,invalid suffix '#' on integer constant,Lexical
+399,Python,Python,unexpected character 'obj',Lexical
+400,C,GCC,unexpected character '$',Lexical
+401,Python,Python,SyntaxError: invalid syntax near 'value',Syntactic
+402,C,GCC,expected ')' before 'var' token,Syntactic
+403,Python,Python,expected ')' before 'data' token,Syntactic
+404,C,Clang,expected ';' before '#' token,Syntactic
+405,Python,Python,SyntaxError: invalid syntax near 'value',Syntactic
+406,C,GCC,SyntaxError: invalid syntax near 'ptr',Syntactic
+407,C,GCC,SyntaxError: invalid syntax near 'temp',Syntactic
+408,Python,Python,expected expression before '&' token,Syntactic
+409,C++,GCC,SyntaxError: invalid syntax near 'data',Syntactic
+410,C++,Clang,expected ';' before 'index' token,Syntactic
+411,C,GCC,unexpected EOF while parsing '?',Syntactic
+412,Python,Python,expected ')' before '$' token,Syntactic
+413,C++,Clang,SyntaxError: invalid syntax near '#',Syntactic
+414,Python,Python,expected ';' before 'num' token,Syntactic
+415,C,Clang,expected ';' before '#' token,Syntactic
+416,C,GCC,expected ')' before '?' token,Syntactic
+417,C++,Clang,expected ')' before '!' token,Syntactic
+418,C,GCC,expected ')' before 'var' token,Syntactic
+419,C,Clang,expected ';' before '^' token,Syntactic
+420,C++,GCC,SyntaxError: invalid syntax near '^',Syntactic
+421,C,Clang,SyntaxError: invalid syntax near 'ptr',Syntactic
+422,C,GCC,unexpected EOF while parsing 'index',Syntactic
+423,C,GCC,expected ')' before '^' token,Syntactic
+424,Python,Python,expected ';' before 'value' token,Syntactic
+425,C++,Clang,unexpected EOF while parsing 'num',Syntactic
+426,C,Clang,SyntaxError: invalid syntax near '!',Syntactic
+427,Python,Python,expected ')' before 'temp' token,Syntactic
+428,C++,Clang,expected expression before '&' token,Syntactic
+429,C++,GCC,expected ')' before '%' token,Syntactic
+430,C++,Clang,expected ')' before '&' token,Syntactic
+431,C++,GCC,expected ';' before 'temp' token,Syntactic
+432,C,Clang,expected ')' before 'value' token,Syntactic
+433,C++,GCC,expected ';' before '%' token,Syntactic
+434,Python,Python,unexpected EOF while parsing 'var',Syntactic
+435,C++,Clang,expected expression before '@' token,Syntactic
+436,C++,GCC,expected ';' before '^' token,Syntactic
+437,C,Clang,SyntaxError: invalid syntax near '#',Syntactic
+438,Python,Python,expected ')' before '!' token,Syntactic
+439,Python,Python,SyntaxError: invalid syntax near 'data',Syntactic
+440,C,GCC,expected ';' before 'var' token,Syntactic
+441,Python,Python,expected ';' before 'var' token,Syntactic
+442,Python,Python,expected ';' before 'obj' token,Syntactic
+443,C++,Clang,SyntaxError: invalid syntax near '?',Syntactic
+444,C++,Clang,expected expression before '*' token,Syntactic
+445,Python,Python,expected ';' before 'obj' token,Syntactic
+446,C++,Clang,expected ')' before '*' token,Syntactic
+447,C,Clang,expected ')' before 'ptr' token,Syntactic
+448,Python,Python,SyntaxError: invalid syntax near '@',Syntactic
+449,C++,Clang,SyntaxError: invalid syntax near '?',Syntactic
+450,Python,Python,expected expression before '*' token,Syntactic
+451,C++,Clang,expected ')' before 'index' token,Syntactic
+452,C,Clang,expected expression before '?' token,Syntactic
+453,C,GCC,SyntaxError: invalid syntax near 'temp',Syntactic
+454,C++,GCC,expected expression before '^' token,Syntactic
+455,C,Clang,SyntaxError: invalid syntax near '^',Syntactic
+456,C,GCC,expected ')' before '*' token,Syntactic
+457,C,GCC,expected expression before '#' token,Syntactic
+458,C,Clang,expected ')' before '*' token,Syntactic
+459,Python,Python,unexpected EOF while parsing 'var',Syntactic
+460,C,Clang,expected expression before 'value' token,Syntactic
+461,C++,Clang,expected ';' before '#' token,Syntactic
+462,C++,Clang,SyntaxError: invalid syntax near 'var',Syntactic
+463,C,GCC,unexpected EOF while parsing '*',Syntactic
+464,C++,GCC,expected ')' before 'ptr' token,Syntactic
+465,C,GCC,expected ')' before 'value' token,Syntactic
+466,Python,Python,expected expression before '?' token,Syntactic
+467,Python,Python,expected expression before 'data' token,Syntactic
+468,Python,Python,expected expression before '$' token,Syntactic
+469,C++,GCC,expected expression before 'var' token,Syntactic
+470,C++,GCC,SyntaxError: invalid syntax near '^',Syntactic
+471,C++,GCC,expected expression before 'obj' token,Syntactic
+472,C,Clang,expected ')' before 'index' token,Syntactic
+473,C,Clang,expected ';' before 'value' token,Syntactic
+474,C,Clang,expected ';' before '#' token,Syntactic
+475,Python,Python,expected ')' before '?' token,Syntactic
+476,C,Clang,unexpected EOF while parsing 'ptr',Syntactic
+477,Python,Python,unexpected EOF while parsing 'obj',Syntactic
+478,C,Clang,expected ';' before 'temp' token,Syntactic
+479,C++,Clang,SyntaxError: invalid syntax near '?',Syntactic
+480,C,Clang,unexpected EOF while parsing '?',Syntactic
+481,C,GCC,expected expression before 'var' token,Syntactic
+482,C++,Clang,expected expression before '!' token,Syntactic
+483,C,GCC,unexpected EOF while parsing 'value',Syntactic
+484,C++,Clang,expected ')' before 'index' token,Syntactic
+485,Python,Python,unexpected EOF while parsing '?',Syntactic
+486,C++,GCC,expected ')' before '^' token,Syntactic
+487,C,Clang,expected expression before '&' token,Syntactic
+488,C++,Clang,expected ')' before 'ptr' token,Syntactic
+489,Python,Python,unexpected EOF while parsing '%',Syntactic
+490,C++,Clang,expected ';' before 'temp' token,Syntactic
+491,C,GCC,expected expression before '#' token,Syntactic
+492,C,Clang,unexpected EOF while parsing '?',Syntactic
+493,C++,GCC,expected ')' before 'var' token,Syntactic
+494,C,Clang,SyntaxError: invalid syntax near 'num',Syntactic
+495,C++,GCC,expected expression before 'index' token,Syntactic
+496,C,GCC,SyntaxError: invalid syntax near '!',Syntactic
+497,Python,Python,SyntaxError: invalid syntax near '@',Syntactic
+498,C++,GCC,SyntaxError: invalid syntax near 'ptr',Syntactic
+499,Python,Python,expected ';' before 'data' token,Syntactic
+500,Python,Python,SyntaxError: invalid syntax near '$',Syntactic
+501,C,GCC,expected expression before '*' token,Syntactic
+502,Python,Python,unexpected EOF while parsing 'data',Syntactic
+503,Python,Python,expected ';' before '@' token,Syntactic
+504,C,Clang,expected ')' before '&' token,Syntactic
+505,C++,GCC,expected expression before 'obj' token,Syntactic
+506,Python,Python,SyntaxError: invalid syntax near '&',Syntactic
+507,C,Clang,expected ')' before '$' token,Syntactic
+508,Python,Python,SyntaxError: invalid syntax near '#',Syntactic
+509,Python,Python,unexpected EOF while parsing 'value',Syntactic
+510,Python,Python,SyntaxError: invalid syntax near '%',Syntactic
+511,C,GCC,expected expression before 'num' token,Syntactic
+512,C++,GCC,SyntaxError: invalid syntax near '?',Syntactic
+513,C,GCC,expected expression before 'value' token,Syntactic
+514,Python,Python,expected ')' before '*' token,Syntactic
+515,C++,Clang,SyntaxError: invalid syntax near '@',Syntactic
+516,C++,Clang,expected ')' before '%' token,Syntactic
+517,C,GCC,expected ')' before '?' token,Syntactic
+518,C++,GCC,expected expression before '#' token,Syntactic
+519,C++,GCC,expected ';' before '*' token,Syntactic
+520,C,GCC,unexpected EOF while parsing '^',Syntactic
+521,C,GCC,expected ';' before 'temp' token,Syntactic
+522,C,GCC,SyntaxError: invalid syntax near '#',Syntactic
+523,Python,Python,expected ';' before '*' token,Syntactic
+524,C,GCC,expected ';' before '&' token,Syntactic
+525,C,Clang,unexpected EOF while parsing '*',Syntactic
+526,C,Clang,unexpected EOF while parsing '$',Syntactic
+527,Python,Python,expected ';' before '*' token,Syntactic
+528,Python,Python,unexpected EOF while parsing '*',Syntactic
+529,Python,Python,expected ';' before '@' token,Syntactic
+530,C,GCC,expected ')' before '?' token,Syntactic
+531,Python,Python,unexpected EOF while parsing '&',Syntactic
+532,Python,Python,expected ')' before 'data' token,Syntactic
+533,Python,Python,expected expression before '!' token,Syntactic
+534,Python,Python,expected ';' before '#' token,Syntactic
+535,Python,Python,expected expression before 'data' token,Syntactic
+536,C,GCC,SyntaxError: invalid syntax near '$',Syntactic
+537,C++,GCC,expected expression before '!' token,Syntactic
+538,C,Clang,expected ')' before 'obj' token,Syntactic
+539,Python,Python,expected expression before 'num' token,Syntactic
+540,C,GCC,expected ';' before 'value' token,Syntactic
+541,C++,Clang,expected ')' before '$' token,Syntactic
+542,Python,Python,expected expression before '@' token,Syntactic
+543,C,Clang,expected expression before '@' token,Syntactic
+544,C,Clang,unexpected EOF while parsing '$',Syntactic
+545,Python,Python,expected ')' before 'data' token,Syntactic
+546,Python,Python,expected expression before 'var' token,Syntactic
+547,Python,Python,expected expression before '&' token,Syntactic
+548,C++,Clang,expected ';' before '!' token,Syntactic
+549,C,Clang,expected expression before '%' token,Syntactic
+550,C,Clang,expected ';' before 'ptr' token,Syntactic
+551,C,Clang,unexpected EOF while parsing '?',Syntactic
+552,C,GCC,expected ')' before '!' token,Syntactic
+553,C,GCC,expected ')' before '#' token,Syntactic
+554,C,GCC,expected ')' before 'index' token,Syntactic
+555,C++,Clang,SyntaxError: invalid syntax near '&',Syntactic
+556,C++,Clang,SyntaxError: invalid syntax near '%',Syntactic
+557,Python,Python,unexpected EOF while parsing '*',Syntactic
+558,C,Clang,expected ';' before '%' token,Syntactic
+559,C,Clang,SyntaxError: invalid syntax near '%',Syntactic
+560,C++,Clang,expected ';' before '%' token,Syntactic
+561,C,GCC,SyntaxError: invalid syntax near '@',Syntactic
+562,Python,Python,expected expression before '&' token,Syntactic
+563,Python,Python,expected ';' before '!' token,Syntactic
+564,C,Clang,expected ')' before 'num' token,Syntactic
+565,C,Clang,expected ';' before 'value' token,Syntactic
+566,Python,Python,SyntaxError: invalid syntax near '?',Syntactic
+567,Python,Python,expected ')' before '@' token,Syntactic
+568,C,GCC,expected expression before '%' token,Syntactic
+569,C++,Clang,expected expression before 'data' token,Syntactic
+570,C++,GCC,unexpected EOF while parsing 'data',Syntactic
+571,Python,Python,SyntaxError: invalid syntax near 'var',Syntactic
+572,C,Clang,SyntaxError: invalid syntax near '$',Syntactic
+573,C,Clang,expected ')' before 'temp' token,Syntactic
+574,C++,Clang,expected expression before '^' token,Syntactic
+575,Python,Python,SyntaxError: invalid syntax near '$',Syntactic
+576,C++,Clang,SyntaxError: invalid syntax near 'data',Syntactic
+577,Python,Python,SyntaxError: invalid syntax near 'ptr',Syntactic
+578,Python,Python,expected expression before 'num' token,Syntactic
+579,C,GCC,expected ')' before '!' token,Syntactic
+580,C++,Clang,unexpected EOF while parsing 'obj',Syntactic
+581,C,Clang,expected expression before '%' token,Syntactic
+582,C++,GCC,expected expression before '@' token,Syntactic
+583,Python,Python,expected ';' before 'data' token,Syntactic
+584,Python,Python,expected ')' before 'obj' token,Syntactic
+585,Python,Python,SyntaxError: invalid syntax near '!',Syntactic
+586,C,Clang,expected ';' before 'index' token,Syntactic
+587,C++,GCC,expected expression before '#' token,Syntactic
+588,C,Clang,expected expression before 'temp' token,Syntactic
+589,C,GCC,unexpected EOF while parsing '$',Syntactic
+590,C++,GCC,expected ')' before '*' token,Syntactic
+591,Python,Python,SyntaxError: invalid syntax near 'obj',Syntactic
+592,Python,Python,expected ')' before '%' token,Syntactic
+593,C,GCC,unexpected EOF while parsing '?',Syntactic
+594,C,Clang,expected expression before 'obj' token,Syntactic
+595,C,GCC,expected expression before 'value' token,Syntactic
+596,C,Clang,expected ';' before '%' token,Syntactic
+597,C++,Clang,expected expression before '$' token,Syntactic
+598,C,Clang,expected ')' before 'value' token,Syntactic
+599,Python,Python,unexpected EOF while parsing 'temp',Syntactic
+600,C,Clang,expected expression before 'data' token,Syntactic
+601,C++,GCC,unexpected EOF while parsing '^',Syntactic
+602,Python,Python,expected expression before '$' token,Syntactic
+603,C,GCC,expected ')' before 'obj' token,Syntactic
+604,C++,Clang,expected ';' before '?' token,Syntactic
+605,C++,GCC,SyntaxError: invalid syntax near '#',Syntactic
+606,C,GCC,SyntaxError: invalid syntax near '$',Syntactic
+607,Python,Python,unexpected EOF while parsing '%',Syntactic
+608,Python,Python,unexpected EOF while parsing '*',Syntactic
+609,C,Clang,expected ';' before '?' token,Syntactic
+610,Python,Python,expected ')' before 'obj' token,Syntactic
+611,C++,Clang,expected ';' before '%' token,Syntactic
+612,C++,Clang,expected expression before 'temp' token,Syntactic
+613,C++,GCC,expected ')' before 'index' token,Syntactic
+614,Python,Python,SyntaxError: invalid syntax near 'var',Syntactic
+615,C,Clang,expected ')' before '*' token,Syntactic
+616,C++,Clang,expected ')' before 'value' token,Syntactic
+617,Python,Python,expected ')' before '%' token,Syntactic
+618,C++,Clang,SyntaxError: invalid syntax near '%',Syntactic
+619,C++,Clang,expected ')' before '%' token,Syntactic
+620,C++,Clang,expected expression before 'ptr' token,Syntactic
+621,C++,Clang,unexpected EOF while parsing 'index',Syntactic
+622,C++,GCC,expected expression before '?' token,Syntactic
+623,Python,Python,SyntaxError: invalid syntax near '@',Syntactic
+624,C++,GCC,SyntaxError: invalid syntax near 'data',Syntactic
+625,Python,Python,unexpected EOF while parsing 'ptr',Syntactic
+626,C,GCC,SyntaxError: invalid syntax near '#',Syntactic
+627,C++,GCC,expected ';' before 'data' token,Syntactic
+628,Python,Python,SyntaxError: invalid syntax near '%',Syntactic
+629,C,GCC,expected ')' before 'num' token,Syntactic
+630,Python,Python,expected expression before '#' token,Syntactic
+631,C,GCC,expected ')' before '!' token,Syntactic
+632,Python,Python,expected ';' before 'obj' token,Syntactic
+633,C++,GCC,expected expression before 'index' token,Syntactic
+634,C,GCC,expected ')' before 'ptr' token,Syntactic
+635,C++,Clang,expected ')' before '$' token,Syntactic
+636,C++,GCC,expected expression before '!' token,Syntactic
+637,Python,Python,expected expression before '?' token,Syntactic
+638,Python,Python,expected ';' before 'index' token,Syntactic
+639,C,GCC,expected ')' before 'var' token,Syntactic
+640,C,GCC,expected expression before '*' token,Syntactic
+641,C++,Clang,SyntaxError: invalid syntax near '%',Syntactic
+642,C++,Clang,SyntaxError: invalid syntax near '#',Syntactic
+643,C,Clang,expected ';' before '!' token,Syntactic
+644,Python,Python,expected ')' before 'index' token,Syntactic
+645,C++,Clang,expected ';' before 'temp' token,Syntactic
+646,C++,GCC,unexpected EOF while parsing '&',Syntactic
+647,Python,Python,SyntaxError: invalid syntax near '%',Syntactic
+648,C,Clang,expected ')' before '?' token,Syntactic
+649,C++,Clang,expected expression before 'var' token,Syntactic
+650,Python,Python,expected expression before '$' token,Syntactic
+651,Python,Python,expected ')' before '*' token,Syntactic
+652,Python,Python,expected ')' before '!' token,Syntactic
+653,C,GCC,unexpected EOF while parsing 'num',Syntactic
+654,C,GCC,SyntaxError: invalid syntax near 'ptr',Syntactic
+655,C,Clang,expected expression before 'index' token,Syntactic
+656,Python,Python,expected ';' before 'temp' token,Syntactic
+657,C,Clang,SyntaxError: invalid syntax near 'var',Syntactic
+658,C,Clang,expected expression before '$' token,Syntactic
+659,C,Clang,expected ')' before '&' token,Syntactic
+660,C,Clang,expected ')' before 'var' token,Syntactic
+661,C++,Clang,unexpected EOF while parsing '@',Syntactic
+662,C,Clang,expected expression before '!' token,Syntactic
+663,C++,GCC,expected ';' before 'value' token,Syntactic
+664,Python,Python,expected ';' before 'num' token,Syntactic
+665,Python,Python,expected ')' before 'temp' token,Syntactic
+666,Python,Python,expected ')' before '#' token,Syntactic
+667,C,Clang,SyntaxError: invalid syntax near 'temp',Syntactic
+668,C,Clang,unexpected EOF while parsing '&',Syntactic
+669,C++,GCC,expected ';' before 'temp' token,Syntactic
+670,C++,Clang,expected ')' before 'ptr' token,Syntactic
+671,Python,Python,expected expression before 'obj' token,Syntactic
+672,C++,Clang,expected expression before '%' token,Syntactic
+673,Python,Python,unexpected EOF while parsing '#',Syntactic
+674,Python,Python,SyntaxError: invalid syntax near 'num',Syntactic
+675,C,GCC,expected ')' before 'ptr' token,Syntactic
+676,C++,Clang,SyntaxError: invalid syntax near 'obj',Syntactic
+677,C++,GCC,expected ')' before '@' token,Syntactic
+678,C,GCC,expected ';' before 'var' token,Syntactic
+679,C++,GCC,unexpected EOF while parsing '*',Syntactic
+680,C,Clang,SyntaxError: invalid syntax near 'num',Syntactic
+681,C++,Clang,unexpected EOF while parsing '$',Syntactic
+682,C++,Clang,expected ')' before 'num' token,Syntactic
+683,Python,Python,SyntaxError: invalid syntax near '!',Syntactic
+684,C++,Clang,expected ';' before 'value' token,Syntactic
+685,C++,Clang,SyntaxError: invalid syntax near 'data',Syntactic
+686,Python,Python,expected expression before '*' token,Syntactic
+687,C++,Clang,expected ')' before 'temp' token,Syntactic
+688,Python,Python,expected ';' before 'obj' token,Syntactic
+689,C,GCC,expected expression before '@' token,Syntactic
+690,C++,GCC,expected ';' before 'ptr' token,Syntactic
+691,Python,Python,unexpected EOF while parsing 'obj',Syntactic
+692,C,GCC,unexpected EOF while parsing 'value',Syntactic
+693,C,GCC,SyntaxError: invalid syntax near '!',Syntactic
+694,C++,GCC,expected expression before 'temp' token,Syntactic
+695,C++,Clang,expected ';' before 'value' token,Syntactic
+696,Python,Python,expected ';' before '?' token,Syntactic
+697,C,GCC,expected ';' before '#' token,Syntactic
+698,C,Clang,SyntaxError: invalid syntax near 'ptr',Syntactic
+699,C++,Clang,expected ';' before 'index' token,Syntactic
+700,Python,Python,unexpected EOF while parsing '#',Syntactic
+701,C,Clang,expected expression before '@' token,Syntactic
+702,C++,Clang,expected ';' before '!' token,Syntactic
+703,C++,GCC,expected expression before '^' token,Syntactic
+704,C++,Clang,unexpected EOF while parsing '%',Syntactic
+705,Python,Python,expected ';' before '&' token,Syntactic
+706,Python,Python,SyntaxError: invalid syntax near '!',Syntactic
+707,C,Clang,unexpected EOF while parsing '^',Syntactic
+708,C++,Clang,expected ';' before 'index' token,Syntactic
+709,Python,Python,expected ';' before '#' token,Syntactic
+710,Python,Python,SyntaxError: invalid syntax near '&',Syntactic
+711,C,GCC,expected ';' before 'ptr' token,Syntactic
+712,C++,Clang,expected expression before '%' token,Syntactic
+713,Python,Python,unexpected EOF while parsing '#',Syntactic
+714,Python,Python,expected expression before '*' token,Syntactic
+715,C,GCC,expected ';' before '*' token,Syntactic
+716,Python,Python,SyntaxError: invalid syntax near '*',Syntactic
+717,Python,Python,SyntaxError: invalid syntax near 'var',Syntactic
+718,Python,Python,expected expression before 'var' token,Syntactic
+719,C,GCC,SyntaxError: invalid syntax near '%',Syntactic
+720,C++,GCC,expected ')' before 'var' token,Syntactic
+721,Python,Python,expected ')' before 'num' token,Syntactic
+722,Python,Python,expected expression before 'var' token,Syntactic
+723,C,Clang,SyntaxError: invalid syntax near '%',Syntactic
+724,C++,GCC,expected expression before '&' token,Syntactic
+725,C,Clang,expected ';' before 'temp' token,Syntactic
+726,Python,Python,expected ';' before '%' token,Syntactic
+727,Python,Python,expected ')' before 'obj' token,Syntactic
+728,C,Clang,unexpected EOF while parsing '^',Syntactic
+729,C,Clang,expected ')' before '?' token,Syntactic
+730,C++,Clang,SyntaxError: invalid syntax near 'value',Syntactic
+731,C,Clang,expected ')' before '$' token,Syntactic
+732,C,GCC,unexpected EOF while parsing '#',Syntactic
+733,Python,Python,expected ')' before '&' token,Syntactic
+734,Python,Python,expected expression before 'obj' token,Syntactic
+735,C,Clang,expected ')' before '!' token,Syntactic
+736,Python,Python,expected ';' before '^' token,Syntactic
+737,C,GCC,expected expression before 'ptr' token,Syntactic
+738,C,Clang,expected ')' before 'var' token,Syntactic
+739,Python,Python,expected ')' before 'var' token,Syntactic
+740,C,Clang,unexpected EOF while parsing '^',Syntactic
+741,Python,Python,expected ';' before '#' token,Syntactic
+742,Python,Python,expected ')' before '*' token,Syntactic
+743,C,Clang,SyntaxError: invalid syntax near 'num',Syntactic
+744,C++,Clang,unexpected EOF while parsing 'index',Syntactic
+745,Python,Python,expected ')' before 'data' token,Syntactic
+746,Python,Python,expected ')' before 'obj' token,Syntactic
+747,Python,Python,expected ')' before '%' token,Syntactic
+748,C++,GCC,expected ';' before '*' token,Syntactic
+749,Python,Python,SyntaxError: invalid syntax near 'obj',Syntactic
+750,C++,Clang,expected ')' before '#' token,Syntactic
+751,C++,GCC,expected ')' before 'data' token,Syntactic
+752,C++,GCC,expected expression before '@' token,Syntactic
+753,C,Clang,SyntaxError: invalid syntax near 'temp',Syntactic
+754,C,GCC,SyntaxError: invalid syntax near 'value',Syntactic
+755,C,Clang,expected ')' before 'obj' token,Syntactic
+756,C,Clang,expected ')' before '@' token,Syntactic
+757,C++,GCC,expected expression before 'index' token,Syntactic
+758,C,GCC,expected expression before '@' token,Syntactic
+759,C++,GCC,expected expression before 'data' token,Syntactic
+760,C++,Clang,expected expression before '*' token,Syntactic
+761,C,Clang,SyntaxError: invalid syntax near 'value',Syntactic
+762,C++,Clang,SyntaxError: invalid syntax near '@',Syntactic
+763,C++,GCC,unexpected EOF while parsing '$',Syntactic
+764,C,GCC,expected ';' before '!' token,Syntactic
+765,C++,Clang,unexpected EOF while parsing 'temp',Syntactic
+766,C++,Clang,expected ')' before 'obj' token,Syntactic
+767,Python,Python,expected expression before 'num' token,Syntactic
+768,Python,Python,expected expression before '*' token,Syntactic
+769,C++,Clang,unexpected EOF while parsing 'index',Syntactic
+770,Python,Python,expected expression before '@' token,Syntactic
+771,Python,Python,SyntaxError: invalid syntax near 'num',Syntactic
+772,Python,Python,expected expression before '&' token,Syntactic
+773,C,Clang,unexpected EOF while parsing '&',Syntactic
+774,C++,Clang,expected ';' before '&' token,Syntactic
+775,Python,Python,SyntaxError: invalid syntax near 'obj',Syntactic
+776,C++,GCC,expected ')' before 'ptr' token,Syntactic
+777,C++,Clang,SyntaxError: invalid syntax near '*',Syntactic
+778,Python,Python,expected expression before 'num' token,Syntactic
+779,Python,Python,expected ';' before 'var' token,Syntactic
+780,C++,GCC,expected ';' before 'data' token,Syntactic
+781,C,GCC,unexpected EOF while parsing 'var',Syntactic
+782,C,GCC,expected ';' before 'var' token,Syntactic
+783,C,GCC,SyntaxError: invalid syntax near '%',Syntactic
+784,C,Clang,expected ')' before 'obj' token,Syntactic
+785,Python,Python,SyntaxError: invalid syntax near 'data',Syntactic
+786,C++,Clang,expected expression before '#' token,Syntactic
+787,C,GCC,unexpected EOF while parsing 'value',Syntactic
+788,C++,Clang,expected ')' before 'data' token,Syntactic
+789,C,Clang,expected ';' before '?' token,Syntactic
+790,Python,Python,expected ')' before 'temp' token,Syntactic
+791,C,GCC,expected ';' before 'obj' token,Syntactic
+792,C++,Clang,SyntaxError: invalid syntax near '*',Syntactic
+793,C,GCC,expected expression before 'value' token,Syntactic
+794,C++,GCC,unexpected EOF while parsing 'temp',Syntactic
+795,C,GCC,SyntaxError: invalid syntax near '$',Syntactic
+796,Python,Python,expected expression before 'data' token,Syntactic
+797,C++,GCC,expected ';' before '^' token,Syntactic
+798,C,Clang,unexpected EOF while parsing 'value',Syntactic
+799,Python,Python,unexpected EOF while parsing '?',Syntactic
+800,C++,GCC,expected ')' before '%' token,Syntactic
+801,C++,Clang,TypeError: unsupported operand types for 'data',Semantic
+802,Python,Python,TypeError: unsupported operand types for 'var',Semantic
+803,C++,GCC,TypeError: unsupported operand types for 'index',Semantic
+804,Python,Python,use of undeclared identifier '%',Semantic
+805,C++,GCC,variable '&' is uninitialized when used here,Semantic
+806,C,Clang,variable '#' is uninitialized when used here,Semantic
+807,C,Clang,IndexError: '#' index out of range,Semantic
+808,C,GCC,IndexError: 'obj' index out of range,Semantic
+809,Python,Python,TypeError: unsupported operand types for 'data',Semantic
+810,C++,Clang,TypeError: unsupported operand types for '$',Semantic
+811,Python,Python,TypeError: unsupported operand types for 'temp',Semantic
+812,Python,Python,variable 'obj' is uninitialized when used here,Semantic
+813,Python,Python,variable '?' is uninitialized when used here,Semantic
+814,C++,Clang,incompatible types when assigning 'data' to 'value',Semantic
+815,C,Clang,incompatible types when assigning 'index' to 'ptr',Semantic
+816,C++,Clang,TypeError: unsupported operand types for 'value',Semantic
+817,Python,Python,variable '$' is uninitialized when used here,Semantic
+818,C++,Clang,IndexError: 'data' index out of range,Semantic
+819,C++,GCC,incompatible types when assigning 'data' to 'data',Semantic
+820,C++,GCC,variable '#' is uninitialized when used here,Semantic
+821,C++,GCC,variable '!' is uninitialized when used here,Semantic
+822,C,GCC,incompatible types when assigning 'temp' to 'temp',Semantic
+823,C++,GCC,IndexError: '*' index out of range,Semantic
+824,C++,GCC,variable 'ptr' is uninitialized when used here,Semantic
+825,C++,Clang,TypeError: unsupported operand types for '^',Semantic
+826,Python,Python,IndexError: '^' index out of range,Semantic
+827,Python,Python,variable '?' is uninitialized when used here,Semantic
+828,Python,Python,TypeError: unsupported operand types for '$',Semantic
+829,C,GCC,variable '?' is uninitialized when used here,Semantic
+830,C++,Clang,IndexError: 'num' index out of range,Semantic
+831,C,Clang,incompatible types when assigning 'num' to 'value',Semantic
+832,C,Clang,TypeError: unsupported operand types for '%',Semantic
+833,C++,Clang,TypeError: unsupported operand types for '#',Semantic
+834,C++,GCC,TypeError: unsupported operand types for '%',Semantic
+835,C++,GCC,use of undeclared identifier 'ptr',Semantic
+836,Python,Python,IndexError: 'index' index out of range,Semantic
+837,C,GCC,use of undeclared identifier 'num',Semantic
+838,C++,Clang,IndexError: '#' index out of range,Semantic
+839,C,GCC,TypeError: unsupported operand types for '$',Semantic
+840,C++,Clang,incompatible types when assigning 'var' to 'ptr',Semantic
+841,C++,Clang,IndexError: '$' index out of range,Semantic
+842,Python,Python,IndexError: '#' index out of range,Semantic
+843,C,Clang,TypeError: unsupported operand types for '#',Semantic
+844,C,GCC,variable '@' is uninitialized when used here,Semantic
+845,Python,Python,incompatible types when assigning 'temp' to 'value',Semantic
+846,C,GCC,use of undeclared identifier 'data',Semantic
+847,Python,Python,variable 'data' is uninitialized when used here,Semantic
+848,Python,Python,use of undeclared identifier 'obj',Semantic
+849,Python,Python,IndexError: 'var' index out of range,Semantic
+850,C++,Clang,IndexError: 'value' index out of range,Semantic
+851,Python,Python,variable '&' is uninitialized when used here,Semantic
+852,Python,Python,TypeError: unsupported operand types for '@',Semantic
+853,C++,GCC,use of undeclared identifier 'data',Semantic
+854,Python,Python,use of undeclared identifier '%',Semantic
+855,C++,Clang,variable '^' is uninitialized when used here,Semantic
+856,C++,Clang,incompatible types when assigning 'var' to 'value',Semantic
+857,C,GCC,use of undeclared identifier '&',Semantic
+858,Python,Python,incompatible types when assigning 'obj' to 'var',Semantic
+859,Python,Python,use of undeclared identifier '@',Semantic
+860,C++,GCC,use of undeclared identifier '?',Semantic
+861,C,GCC,incompatible types when assigning 'temp' to 'var',Semantic
+862,C,Clang,incompatible types when assigning 'obj' to 'ptr',Semantic
+863,Python,Python,TypeError: unsupported operand types for '#',Semantic
+864,C,GCC,variable 'var' is uninitialized when used here,Semantic
+865,Python,Python,variable '?' is uninitialized when used here,Semantic
+866,Python,Python,incompatible types when assigning 'data' to 'value',Semantic
+867,C,Clang,use of undeclared identifier '#',Semantic
+868,Python,Python,IndexError: 'temp' index out of range,Semantic
+869,C,Clang,use of undeclared identifier '!',Semantic
+870,C++,Clang,incompatible types when assigning 'data' to 'temp',Semantic
+871,Python,Python,variable '!' is uninitialized when used here,Semantic
+872,Python,Python,use of undeclared identifier 'var',Semantic
+873,Python,Python,TypeError: unsupported operand types for 'index',Semantic
+874,C,GCC,variable 'num' is uninitialized when used here,Semantic
+875,C,Clang,IndexError: '*' index out of range,Semantic
+876,C,GCC,use of undeclared identifier '^',Semantic
+877,C++,Clang,incompatible types when assigning 'index' to 'ptr',Semantic
+878,C++,Clang,IndexError: '$' index out of range,Semantic
+879,C++,GCC,TypeError: unsupported operand types for '$',Semantic
+880,C,Clang,incompatible types when assigning 'value' to 'value',Semantic
+881,C++,Clang,use of undeclared identifier '*',Semantic
+882,Python,Python,TypeError: unsupported operand types for 'data',Semantic
+883,C++,GCC,use of undeclared identifier '!',Semantic
+884,Python,Python,variable '$' is uninitialized when used here,Semantic
+885,Python,Python,TypeError: unsupported operand types for '!',Semantic
+886,Python,Python,variable 'ptr' is uninitialized when used here,Semantic
+887,C,GCC,use of undeclared identifier 'value',Semantic
+888,C,GCC,variable '!' is uninitialized when used here,Semantic
+889,C++,Clang,TypeError: unsupported operand types for 'data',Semantic
+890,Python,Python,TypeError: unsupported operand types for 'temp',Semantic
+891,Python,Python,use of undeclared identifier '!',Semantic
+892,C++,Clang,use of undeclared identifier '&',Semantic
+893,Python,Python,IndexError: 'value' index out of range,Semantic
+894,Python,Python,incompatible types when assigning 'value' to 'temp',Semantic
+895,C++,Clang,TypeError: unsupported operand types for '^',Semantic
+896,C++,GCC,IndexError: 'obj' index out of range,Semantic
+897,Python,Python,IndexError: 'index' index out of range,Semantic
+898,C++,GCC,use of undeclared identifier '$',Semantic
+899,Python,Python,IndexError: '?' index out of range,Semantic
+900,C++,Clang,use of undeclared identifier '$',Semantic
+901,C,GCC,variable 'index' is uninitialized when used here,Semantic
+902,Python,Python,use of undeclared identifier '*',Semantic
+903,Python,Python,use of undeclared identifier 'var',Semantic
+904,Python,Python,variable '&' is uninitialized when used here,Semantic
+905,C++,Clang,IndexError: 'temp' index out of range,Semantic
+906,C,Clang,use of undeclared identifier 'obj',Semantic
+907,Python,Python,TypeError: unsupported operand types for 'var',Semantic
+908,C++,Clang,TypeError: unsupported operand types for 'var',Semantic
+909,C,Clang,IndexError: '@' index out of range,Semantic
+910,C++,Clang,TypeError: unsupported operand types for '?',Semantic
+911,C,Clang,incompatible types when assigning 'value' to 'obj',Semantic
+912,C++,Clang,variable 'num' is uninitialized when used here,Semantic
+913,Python,Python,incompatible types when assigning 'data' to 'temp',Semantic
+914,C,GCC,use of undeclared identifier '#',Semantic
+915,Python,Python,incompatible types when assigning 'temp' to 'ptr',Semantic
+916,C,Clang,use of undeclared identifier '!',Semantic
+917,C++,GCC,TypeError: unsupported operand types for '@',Semantic
+918,Python,Python,TypeError: unsupported operand types for '$',Semantic
+919,C,Clang,incompatible types when assigning 'data' to 'obj',Semantic
+920,C,Clang,variable '#' is uninitialized when used here,Semantic
+921,Python,Python,use of undeclared identifier 'ptr',Semantic
+922,Python,Python,IndexError: '&' index out of range,Semantic
+923,Python,Python,use of undeclared identifier '?',Semantic
+924,C,Clang,IndexError: 'index' index out of range,Semantic
+925,C++,GCC,TypeError: unsupported operand types for '!',Semantic
+926,C++,Clang,variable '*' is uninitialized when used here,Semantic
+927,C,Clang,TypeError: unsupported operand types for 'data',Semantic
+928,C++,GCC,IndexError: 'ptr' index out of range,Semantic
+929,C++,GCC,IndexError: 'ptr' index out of range,Semantic
+930,Python,Python,variable 'obj' is uninitialized when used here,Semantic
+931,C,Clang,IndexError: 'temp' index out of range,Semantic
+932,C++,Clang,incompatible types when assigning 'data' to 'data',Semantic
+933,Python,Python,IndexError: 'value' index out of range,Semantic
+934,C++,GCC,IndexError: 'data' index out of range,Semantic
+935,Python,Python,TypeError: unsupported operand types for 'ptr',Semantic
+936,C++,GCC,incompatible types when assigning 'var' to 'num',Semantic
+937,C,GCC,TypeError: unsupported operand types for '$',Semantic
+938,C,GCC,variable '^' is uninitialized when used here,Semantic
+939,C++,GCC,IndexError: 'temp' index out of range,Semantic
+940,C++,GCC,use of undeclared identifier 'num',Semantic
+941,Python,Python,use of undeclared identifier 'ptr',Semantic
+942,C++,GCC,use of undeclared identifier 'num',Semantic
+943,Python,Python,TypeError: unsupported operand types for '&',Semantic
+944,C,Clang,variable 'temp' is uninitialized when used here,Semantic
+945,C,Clang,IndexError: 'ptr' index out of range,Semantic
+946,C++,Clang,use of undeclared identifier '*',Semantic
+947,Python,Python,TypeError: unsupported operand types for '&',Semantic
+948,Python,Python,TypeError: unsupported operand types for 'ptr',Semantic
+949,Python,Python,variable '#' is uninitialized when used here,Semantic
+950,C,GCC,TypeError: unsupported operand types for 'data',Semantic
+951,Python,Python,IndexError: '$' index out of range,Semantic
+952,Python,Python,IndexError: 'obj' index out of range,Semantic
+953,C++,GCC,IndexError: 'num' index out of range,Semantic
+954,C++,Clang,TypeError: unsupported operand types for 'num',Semantic
+955,C++,Clang,variable 'ptr' is uninitialized when used here,Semantic
+956,Python,Python,IndexError: 'obj' index out of range,Semantic
+957,C++,GCC,variable '*' is uninitialized when used here,Semantic
+958,C,Clang,use of undeclared identifier '!',Semantic
+959,C,Clang,incompatible types when assigning 'ptr' to 'value',Semantic
+960,Python,Python,TypeError: unsupported operand types for '!',Semantic
+961,C++,GCC,IndexError: 'var' index out of range,Semantic
+962,C,GCC,TypeError: unsupported operand types for '*',Semantic
+963,Python,Python,use of undeclared identifier 'var',Semantic
+964,Python,Python,variable 'ptr' is uninitialized when used here,Semantic
+965,C,GCC,TypeError: unsupported operand types for '%',Semantic
+966,Python,Python,variable '@' is uninitialized when used here,Semantic
+967,C,GCC,TypeError: unsupported operand types for 'data',Semantic
+968,C++,GCC,IndexError: '$' index out of range,Semantic
+969,Python,Python,variable 'value' is uninitialized when used here,Semantic
+970,C++,Clang,incompatible types when assigning 'var' to 'value',Semantic
+971,Python,Python,IndexError: 'data' index out of range,Semantic
+972,C++,Clang,TypeError: unsupported operand types for '!',Semantic
+973,C++,Clang,TypeError: unsupported operand types for '!',Semantic
+974,C++,Clang,use of undeclared identifier 'num',Semantic
+975,C,GCC,IndexError: '&' index out of range,Semantic
+976,Python,Python,variable '$' is uninitialized when used here,Semantic
+977,C++,Clang,TypeError: unsupported operand types for '?',Semantic
+978,C,Clang,TypeError: unsupported operand types for '%',Semantic
+979,C,Clang,use of undeclared identifier '$',Semantic
+980,Python,Python,TypeError: unsupported operand types for '?',Semantic
+981,C++,GCC,IndexError: 'value' index out of range,Semantic
+982,C,GCC,variable 'data' is uninitialized when used here,Semantic
+983,C++,Clang,IndexError: '@' index out of range,Semantic
+984,C++,GCC,TypeError: unsupported operand types for '$',Semantic
+985,C,GCC,incompatible types when assigning 'var' to 'temp',Semantic
+986,C,Clang,incompatible types when assigning 'obj' to 'var',Semantic
+987,C,GCC,IndexError: 'ptr' index out of range,Semantic
+988,Python,Python,TypeError: unsupported operand types for '&',Semantic
+989,C++,Clang,TypeError: unsupported operand types for '!',Semantic
+990,C,GCC,incompatible types when assigning 'value' to 'var',Semantic
+991,C++,GCC,IndexError: '^' index out of range,Semantic
+992,Python,Python,use of undeclared identifier 'obj',Semantic
+993,Python,Python,IndexError: '@' index out of range,Semantic
+994,C,GCC,use of undeclared identifier 'index',Semantic
+995,C++,GCC,incompatible types when assigning 'ptr' to 'data',Semantic
+996,C,Clang,variable '$' is uninitialized when used here,Semantic
+997,Python,Python,variable '^' is uninitialized when used here,Semantic
+998,C,Clang,incompatible types when assigning 'ptr' to 'ptr',Semantic
+999,Python,Python,TypeError: unsupported operand types for '&',Semantic
+1000,C,Clang,IndexError: 'temp' index out of range,Semantic
+1001,Python,Python,TypeError: unsupported operand types for '@',Semantic
+1002,C++,GCC,variable '@' is uninitialized when used here,Semantic
+1003,C,Clang,variable '!' is uninitialized when used here,Semantic
+1004,C,Clang,incompatible types when assigning 'temp' to 'value',Semantic
+1005,C,GCC,IndexError: 'index' index out of range,Semantic
+1006,Python,Python,TypeError: unsupported operand types for 'num',Semantic
+1007,Python,Python,IndexError: '$' index out of range,Semantic
+1008,Python,Python,IndexError: 'index' index out of range,Semantic
+1009,Python,Python,variable 'index' is uninitialized when used here,Semantic
+1010,C++,GCC,use of undeclared identifier '#',Semantic
+1011,Python,Python,incompatible types when assigning 'temp' to 'ptr',Semantic
+1012,C++,Clang,incompatible types when assigning 'index' to 'ptr',Semantic
+1013,C++,GCC,variable '@' is uninitialized when used here,Semantic
+1014,C++,GCC,use of undeclared identifier 'ptr',Semantic
+1015,C,GCC,IndexError: 'data' index out of range,Semantic
+1016,Python,Python,IndexError: '*' index out of range,Semantic
+1017,Python,Python,TypeError: unsupported operand types for '#',Semantic
+1018,C++,GCC,use of undeclared identifier 'ptr',Semantic
+1019,C,Clang,incompatible types when assigning 'data' to 'num',Semantic
+1020,C++,GCC,IndexError: 'var' index out of range,Semantic
+1021,C++,Clang,IndexError: 'index' index out of range,Semantic
+1022,Python,Python,IndexError: '#' index out of range,Semantic
+1023,Python,Python,variable 'obj' is uninitialized when used here,Semantic
+1024,C,Clang,use of undeclared identifier 'num',Semantic
+1025,C,GCC,variable '^' is uninitialized when used here,Semantic
+1026,Python,Python,variable 'ptr' is uninitialized when used here,Semantic
+1027,Python,Python,incompatible types when assigning 'index' to 'num',Semantic
+1028,C++,GCC,use of undeclared identifier '?',Semantic
+1029,Python,Python,incompatible types when assigning 'value' to 'ptr',Semantic
+1030,Python,Python,TypeError: unsupported operand types for '$',Semantic
+1031,C++,Clang,TypeError: unsupported operand types for 'num',Semantic
+1032,Python,Python,variable 'value' is uninitialized when used here,Semantic
+1033,C++,GCC,use of undeclared identifier 'obj',Semantic
+1034,C++,GCC,IndexError: 'num' index out of range,Semantic
+1035,Python,Python,variable 'obj' is uninitialized when used here,Semantic
+1036,C,GCC,incompatible types when assigning 'var' to 'ptr',Semantic
+1037,C++,Clang,TypeError: unsupported operand types for 'data',Semantic
+1038,C,GCC,variable '^' is uninitialized when used here,Semantic
+1039,C,GCC,variable '?' is uninitialized when used here,Semantic
+1040,Python,Python,incompatible types when assigning 'var' to 'ptr',Semantic
+1041,C++,GCC,IndexError: 'value' index out of range,Semantic
+1042,C++,Clang,incompatible types when assigning 'data' to 'var',Semantic
+1043,Python,Python,incompatible types when assigning 'index' to 'obj',Semantic
+1044,Python,Python,variable '!' is uninitialized when used here,Semantic
+1045,C++,GCC,TypeError: unsupported operand types for 'num',Semantic
+1046,Python,Python,variable '*' is uninitialized when used here,Semantic
+1047,C,GCC,TypeError: unsupported operand types for 'temp',Semantic
+1048,C++,Clang,IndexError: '@' index out of range,Semantic
+1049,Python,Python,use of undeclared identifier '%',Semantic
+1050,C++,Clang,TypeError: unsupported operand types for 'index',Semantic
+1051,C,Clang,variable 'obj' is uninitialized when used here,Semantic
+1052,Python,Python,TypeError: unsupported operand types for 'num',Semantic
+1053,C++,GCC,variable '@' is uninitialized when used here,Semantic
+1054,C++,GCC,incompatible types when assigning 'temp' to 'var',Semantic
+1055,C++,GCC,TypeError: unsupported operand types for '#',Semantic
+1056,C++,GCC,use of undeclared identifier '^',Semantic
+1057,Python,Python,IndexError: 'value' index out of range,Semantic
+1058,Python,Python,IndexError: '$' index out of range,Semantic
+1059,C,GCC,IndexError: 'ptr' index out of range,Semantic
+1060,C++,Clang,variable '$' is uninitialized when used here,Semantic
+1061,Python,Python,incompatible types when assigning 'obj' to 'var',Semantic
+1062,C++,Clang,variable '$' is uninitialized when used here,Semantic
+1063,C++,Clang,TypeError: unsupported operand types for '!',Semantic
+1064,C++,GCC,TypeError: unsupported operand types for 'num',Semantic
+1065,C++,GCC,IndexError: 'var' index out of range,Semantic
+1066,Python,Python,incompatible types when assigning 'temp' to 'obj',Semantic
+1067,Python,Python,variable '!' is uninitialized when used here,Semantic
+1068,Python,Python,variable 'num' is uninitialized when used here,Semantic
+1069,C++,Clang,IndexError: 'temp' index out of range,Semantic
+1070,C,Clang,IndexError: '$' index out of range,Semantic
+1071,Python,Python,IndexError: '^' index out of range,Semantic
+1072,C,Clang,IndexError: 'ptr' index out of range,Semantic
+1073,Python,Python,incompatible types when assigning 'obj' to 'var',Semantic
+1074,C,GCC,incompatible types when assigning 'value' to 'ptr',Semantic
+1075,C,GCC,incompatible types when assigning 'ptr' to 'var',Semantic
+1076,C++,GCC,IndexError: '#' index out of range,Semantic
+1077,Python,Python,TypeError: unsupported operand types for '%',Semantic
+1078,C++,Clang,IndexError: '!' index out of range,Semantic
+1079,C,GCC,variable 'index' is uninitialized when used here,Semantic
+1080,Python,Python,IndexError: '%' index out of range,Semantic
+1081,C++,GCC,IndexError: '%' index out of range,Semantic
+1082,C,GCC,IndexError: 'data' index out of range,Semantic
+1083,Python,Python,variable '%' is uninitialized when used here,Semantic
+1084,C,GCC,use of undeclared identifier 'ptr',Semantic
+1085,Python,Python,use of undeclared identifier '%',Semantic
+1086,Python,Python,variable 'var' is uninitialized when used here,Semantic
+1087,C++,Clang,IndexError: 'index' index out of range,Semantic
+1088,Python,Python,TypeError: unsupported operand types for 'ptr',Semantic
+1089,C,GCC,TypeError: unsupported operand types for 'index',Semantic
+1090,C++,Clang,incompatible types when assigning 'var' to 'data',Semantic
+1091,C++,GCC,use of undeclared identifier 'num',Semantic
+1092,Python,Python,use of undeclared identifier '%',Semantic
+1093,C++,Clang,incompatible types when assigning 'index' to 'obj',Semantic
+1094,C++,Clang,incompatible types when assigning 'var' to 'ptr',Semantic
+1095,C++,Clang,use of undeclared identifier 'ptr',Semantic
+1096,C++,GCC,variable '$' is uninitialized when used here,Semantic
+1097,C++,GCC,incompatible types when assigning 'obj' to 'value',Semantic
+1098,C,Clang,incompatible types when assigning 'ptr' to 'temp',Semantic
+1099,C++,Clang,IndexError: '^' index out of range,Semantic
+1100,C,Clang,IndexError: 'temp' index out of range,Semantic
+1101,Python,Python,variable '!' is uninitialized when used here,Semantic
+1102,C++,GCC,incompatible types when assigning 'ptr' to 'num',Semantic
+1103,C,GCC,incompatible types when assigning 'ptr' to 'data',Semantic
+1104,C,Clang,variable 'value' is uninitialized when used here,Semantic
+1105,C,GCC,incompatible types when assigning 'ptr' to 'var',Semantic
+1106,C++,Clang,IndexError: 'temp' index out of range,Semantic
+1107,Python,Python,use of undeclared identifier 'index',Semantic
+1108,Python,Python,incompatible types when assigning 'ptr' to 'temp',Semantic
+1109,Python,Python,IndexError: 'index' index out of range,Semantic
+1110,C++,GCC,TypeError: unsupported operand types for 'data',Semantic
+1111,C,Clang,use of undeclared identifier 'num',Semantic
+1112,Python,Python,TypeError: unsupported operand types for 'temp',Semantic
+1113,C,Clang,variable '@' is uninitialized when used here,Semantic
+1114,C++,GCC,variable 'data' is uninitialized when used here,Semantic
+1115,C++,GCC,use of undeclared identifier '*',Semantic
+1116,C++,GCC,variable '#' is uninitialized when used here,Semantic
+1117,Python,Python,IndexError: '^' index out of range,Semantic
+1118,C++,GCC,use of undeclared identifier 'data',Semantic
+1119,C,GCC,use of undeclared identifier 'index',Semantic
+1120,Python,Python,TypeError: unsupported operand types for 'index',Semantic
+1121,C,Clang,incompatible types when assigning 'obj' to 'obj',Semantic
+1122,C++,GCC,IndexError: '@' index out of range,Semantic
+1123,C++,GCC,variable 'obj' is uninitialized when used here,Semantic
+1124,C,GCC,variable 'temp' is uninitialized when used here,Semantic
+1125,C++,Clang,variable '#' is uninitialized when used here,Semantic
+1126,Python,Python,TypeError: unsupported operand types for 'num',Semantic
+1127,C,GCC,incompatible types when assigning 'value' to 'ptr',Semantic
+1128,C,GCC,use of undeclared identifier '*',Semantic
+1129,C++,GCC,incompatible types when assigning 'value' to 'var',Semantic
+1130,C,Clang,incompatible types when assigning 'ptr' to 'var',Semantic
+1131,C,Clang,incompatible types when assigning 'obj' to 'ptr',Semantic
+1132,Python,Python,TypeError: unsupported operand types for 'ptr',Semantic
+1133,C,GCC,variable 'data' is uninitialized when used here,Semantic
+1134,Python,Python,variable '?' is uninitialized when used here,Semantic
+1135,Python,Python,IndexError: '%' index out of range,Semantic
+1136,Python,Python,IndexError: '!' index out of range,Semantic
+1137,Python,Python,incompatible types when assigning 'var' to 'ptr',Semantic
+1138,C,Clang,IndexError: 'ptr' index out of range,Semantic
+1139,C++,Clang,use of undeclared identifier '!',Semantic
+1140,Python,Python,use of undeclared identifier '^',Semantic
+1141,C,GCC,variable 'var' is uninitialized when used here,Semantic
+1142,C,GCC,incompatible types when assigning 'temp' to 'data',Semantic
+1143,C,Clang,use of undeclared identifier '&',Semantic
+1144,C++,Clang,variable '&' is uninitialized when used here,Semantic
+1145,C,Clang,use of undeclared identifier '*',Semantic
+1146,C++,GCC,variable '%' is uninitialized when used here,Semantic
+1147,C,GCC,variable 'var' is uninitialized when used here,Semantic
+1148,C,Clang,variable '%' is uninitialized when used here,Semantic
+1149,C,GCC,IndexError: 'data' index out of range,Semantic
+1150,Python,Python,use of undeclared identifier 'data',Semantic
+1151,C++,Clang,IndexError: '!' index out of range,Semantic
+1152,C,Clang,use of undeclared identifier 'num',Semantic
+1153,C++,Clang,incompatible types when assigning 'ptr' to 'num',Semantic
+1154,Python,Python,incompatible types when assigning 'num' to 'num',Semantic
+1155,C,Clang,IndexError: 'index' index out of range,Semantic
+1156,C,GCC,TypeError: unsupported operand types for 'num',Semantic
+1157,Python,Python,use of undeclared identifier 'index',Semantic
+1158,Python,Python,TypeError: unsupported operand types for '#',Semantic
+1159,Python,Python,TypeError: unsupported operand types for 'num',Semantic
+1160,C,GCC,use of undeclared identifier '^',Semantic
+1161,C++,GCC,incompatible types when assigning 'temp' to 'index',Semantic
+1162,Python,Python,TypeError: unsupported operand types for 'var',Semantic
+1163,C++,GCC,TypeError: unsupported operand types for '^',Semantic
+1164,Python,Python,variable '*' is uninitialized when used here,Semantic
+1165,C,GCC,incompatible types when assigning 'value' to 'ptr',Semantic
+1166,C++,Clang,TypeError: unsupported operand types for 'temp',Semantic
+1167,C++,Clang,variable 'value' is uninitialized when used here,Semantic
+1168,C,GCC,TypeError: unsupported operand types for '@',Semantic
+1169,Python,Python,variable 'value' is uninitialized when used here,Semantic
+1170,C,GCC,variable 'index' is uninitialized when used here,Semantic
+1171,C++,GCC,use of undeclared identifier '!',Semantic
+1172,C,Clang,use of undeclared identifier 'var',Semantic
+1173,Python,Python,IndexError: 'num' index out of range,Semantic
+1174,C,GCC,use of undeclared identifier 'temp',Semantic
+1175,C,Clang,use of undeclared identifier '@',Semantic
+1176,C,Clang,variable '?' is uninitialized when used here,Semantic
+1177,C,Clang,use of undeclared identifier '?',Semantic
+1178,C,GCC,TypeError: unsupported operand types for '?',Semantic
+1179,Python,Python,incompatible types when assigning 'obj' to 'obj',Semantic
+1180,C++,Clang,TypeError: unsupported operand types for 'index',Semantic
+1181,Python,Python,use of undeclared identifier 'index',Semantic
+1182,C,Clang,TypeError: unsupported operand types for '%',Semantic
+1183,Python,Python,use of undeclared identifier '!',Semantic
+1184,Python,Python,TypeError: unsupported operand types for '*',Semantic
+1185,C,GCC,TypeError: unsupported operand types for '&',Semantic
+1186,C++,Clang,use of undeclared identifier 'var',Semantic
+1187,C++,Clang,TypeError: unsupported operand types for '*',Semantic
+1188,C++,Clang,TypeError: unsupported operand types for '%',Semantic
+1189,C++,Clang,TypeError: unsupported operand types for 'value',Semantic
+1190,C,GCC,IndexError: '@' index out of range,Semantic
+1191,C++,GCC,variable '&' is uninitialized when used here,Semantic
+1192,C,Clang,TypeError: unsupported operand types for 'data',Semantic
+1193,C,GCC,TypeError: unsupported operand types for 'temp',Semantic
+1194,C,GCC,IndexError: 'data' index out of range,Semantic
+1195,Python,Python,incompatible types when assigning 'index' to 'index',Semantic
+1196,C++,GCC,TypeError: unsupported operand types for '^',Semantic
+1197,C,Clang,TypeError: unsupported operand types for 'num',Semantic
+1198,C,GCC,TypeError: unsupported operand types for '!',Semantic
+1199,C++,GCC,TypeError: unsupported operand types for 'data',Semantic
+1200,C++,GCC,TypeError: unsupported operand types for 'index',Semantic
