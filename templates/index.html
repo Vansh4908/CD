@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Compiler Error Classifier</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+
+<div class="container">
+    <h1>Compiler Error Classifier</h1>
+
+    <form action="/predict" method="post">
+        <input type="text" name="error" placeholder="Enter compiler error..." required>
+        <button type="submit">Predict</button>
+    </form>
+
+    {% if prediction %}
+    <div class="result">
+        Prediction: {{ prediction }}
+    </div>
+    {% endif %}
+</div>
+
+</body>
+</html>

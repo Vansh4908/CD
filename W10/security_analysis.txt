@@ -1,0 +1,41 @@
+SECURITY ANALYSIS OF COMPILER ERRORS
+
+In this project, compiler errors are classified into lexical, syntactic, and semantic categories using machine learning techniques.
+
+Among these, semantic errors are the most critical from a security perspective.
+
+1. Lexical Errors:
+These errors occur due to invalid tokens such as misspelled keywords or invalid characters.
+They generally do not pose direct security threats but indicate poor code quality.
+
+2. Syntactic Errors:
+These errors arise due to incorrect program structure, such as missing semicolons or incorrect syntax.
+They prevent code execution and are not directly linked to vulnerabilities.
+
+3. Semantic Errors:
+These errors occur when the logic of the program is incorrect, even if syntax is valid.
+
+Examples include:
+- Use of undefined variables
+- Type mismatches
+- Null pointer dereferencing
+- Invalid memory access
+
+Security Relevance:
+Semantic errors can lead to serious vulnerabilities such as:
+- Memory corruption
+- Program crashes
+- Unauthorized access
+- Unexpected behavior
+
+By accurately classifying semantic errors, the system helps developers identify potential vulnerabilities early in the development process.
+
+Conclusion:
+This system enhances software security by enabling early detection of logic-level issues, reducing the risk of vulnerabilities in production systems.
+
+
+Example:
+int *ptr = NULL;
+*ptr = 10;
+
+This leads to a segmentation fault and is a potential security risk.

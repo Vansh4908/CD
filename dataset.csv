@@ -1,0 +1,951 @@
+error_id,language,compiler,error_message,category
+1,C++,Clang,missing whitespace after 'bar',Lexical
+2,C++,GCC,TypeError: unsupported operand types for '+',Semantic
+3,C,Clang,unexpected '+',Syntactic
+4,C++,GCC,syntax error near 'y',Syntactic
+5,Python,Python,invalid character 'x' in identifier,Lexical
+6,C++,Clang,invalid suffix 'max' on integer constant,Lexical
+7,Python,Python,invalid token 'max',Lexical
+8,Python,Python,expected ';' before 'data',Syntactic
+9,C,Clang,unterminated string literal 'status',Lexical
+10,C++,GCC,stray 'bar' in program,Lexical
+11,C++,GCC,TypeError: unsupported operand types for '!',Semantic
+12,C,Clang,expected ';' before 'key',Syntactic
+13,C++,GCC,incompatible types when assigning 'data' to 'data',Semantic
+14,C,Clang,invalid suffix 'total' on integer constant,Lexical
+15,C++,GCC,stray 'index' in program,Lexical
+16,C,GCC,variable 'node' is uninitialized when used here,Semantic
+17,C++,Clang,expected ')' matching '(' before 'id',Syntactic
+18,Python,Python,expected '}' at end of input near 'sum',Syntactic
+19,C,Clang,invalid character 'test' in identifier,Lexical
+20,C++,GCC,expected '}' at end of input near 'j',Syntactic
+21,C,GCC,missing '&' in expression,Syntactic
+22,C++,Clang,invalid suffix 'foo' on integer constant,Lexical
+23,C++,GCC,IndexError: 'obj' index out of range,Semantic
+24,Python,Python,unexpected 'width',Syntactic
+25,C++,GCC,use of undeclared identifier 'user',Semantic
+26,Python,Python,invalid suffix 'mean' on integer constant,Lexical
+27,C,GCC,missing 'flag' in expression,Syntactic
+28,Python,Python,invalid suffix 'float' on integer constant,Lexical
+29,C++,Clang,expected identifier or '(' before 'buffer',Syntactic
+30,C++,GCC,expected ')' matching '(' before 'test',Syntactic
+31,C,GCC,expected ')' matching '(' before 'float',Syntactic
+32,C++,GCC,unexpected 'char',Syntactic
+33,Python,Python,expected ';' before '|',Syntactic
+34,C,Clang,expected ')' matching '(' before '^',Syntactic
+35,C++,Clang,redefinition of 'test',Semantic
+36,C,Clang,incompatible types when assigning 'array' to 'array',Semantic
+37,C,Clang,variable '/' is uninitialized when used here,Semantic
+38,C++,GCC,use of undeclared identifier '<',Semantic
+39,C,Clang,expected identifier or '(' before 'value',Syntactic
+40,C++,GCC,cannot convert 'i' to pointer,Semantic
+41,Python,Python,IndexError: 'width' index out of range,Semantic
+42,C++,GCC,variable 'gamma' is uninitialized when used here,Semantic
+43,C,GCC,variable 'mean' is uninitialized when used here,Semantic
+44,Python,Python,redefinition of '*',Semantic
+45,Python,Python,TypeError: unsupported operand types for 'value',Semantic
+46,C++,GCC,unexpected 'foo',Syntactic
+47,C++,Clang,unexpected '@',Syntactic
+48,Python,Python,unexpected 'j',Syntactic
+49,C,Clang,incompatible types when assigning 'count' to 'count',Semantic
+50,C++,GCC,unexpected character 'id',Lexical
+51,C++,GCC,TypeError: unsupported operand types for 'y',Semantic
+52,C,GCC,missing 'epsilon' in expression,Syntactic
+53,C++,Clang,IndexError: 'result' index out of range,Semantic
+54,Python,Python,expected '}' at end of input near 'epsilon',Syntactic
+55,C++,GCC,expected ')' matching '(' before '/',Syntactic
+56,C++,Clang,invalid suffix 'alpha' on integer constant,Lexical
+57,Python,Python,redefinition of 'item',Semantic
+58,C,Clang,expected identifier or '(' before 'array',Syntactic
+59,C++,GCC,expected '}' at end of input near 'result',Syntactic
+60,C,GCC,expected identifier or '(' before 'count',Syntactic
+61,C,Clang,unexpected 'mean',Syntactic
+62,C++,Clang,missing whitespace after 'mode',Lexical
+63,Python,Python,variable '*' is uninitialized when used here,Semantic
+64,C,GCC,unexpected 'i',Syntactic
+65,C,GCC,unexpected '&',Syntactic
+66,C,GCC,unexpected character 'max',Lexical
+67,C,Clang,missing whitespace after '<',Lexical
+68,C++,GCC,unexpected 'bar',Syntactic
+69,C++,GCC,stray 'temp' in program,Lexical
+70,C,GCC,IndexError: 'admin' index out of range,Semantic
+71,C,Clang,use of undeclared identifier 'val',Semantic
+72,Python,Python,invalid character 'state' in identifier,Lexical
+73,C++,GCC,expected identifier or '(' before 'int',Syntactic
+74,C++,GCC,invalid character 'delta' in identifier,Lexical
+75,C,Clang,syntax error near 'total',Syntactic
+76,C++,GCC,use of undeclared identifier '^',Semantic
+77,C,Clang,IndexError: '%' index out of range,Semantic
+78,C,Clang,invalid token 'int',Lexical
+79,C++,Clang,use of undeclared identifier 'mean',Semantic
+80,C,Clang,missing whitespace after 'list',Lexical
+81,C++,GCC,syntax error near '^',Syntactic
+82,C++,Clang,cannot convert 'admin' to pointer,Semantic
+83,Python,Python,syntax error near 'buffer',Syntactic
+84,C,GCC,use of undeclared identifier '&',Semantic
+85,Python,Python,invalid token 'node',Lexical
+86,C++,Clang,unexpected character 'omega',Lexical
+87,Python,Python,expected ')' matching '(' before 'char',Syntactic
+88,C,Clang,IndexError: 'type' index out of range,Semantic
+89,C++,GCC,expected '}' at end of input near 'flag',Syntactic
+90,C++,Clang,expected ')' matching '(' before '*',Syntactic
+91,C++,Clang,redefinition of 'average',Semantic
+92,C,Clang,syntax error near 'x',Syntactic
+93,C++,Clang,invalid token 'omega',Lexical
+94,C,GCC,invalid token 'value',Lexical
+95,C++,Clang,redefinition of 'width',Semantic
+96,C++,GCC,expected ';' before 'average',Syntactic
+97,Python,Python,unexpected '>',Syntactic
+98,C++,Clang,expected ';' before 'sum',Syntactic
+99,Python,Python,incompatible types when assigning 'temp' to 'temp',Semantic
+100,Python,Python,expected '}' at end of input near '=',Syntactic
+101,Python,Python,expected ';' before 'temp',Syntactic
+102,C++,Clang,IndexError: '|' index out of range,Semantic
+103,C++,GCC,missing 'mode' in expression,Syntactic
+104,C++,GCC,incompatible types when assigning 'epsilon' to 'epsilon',Semantic
+105,C,GCC,redefinition of 'y',Semantic
+106,Python,Python,expected ';' before 'obj',Syntactic
+107,C++,GCC,expected '}' at end of input near 'x',Syntactic
+108,Python,Python,use of undeclared identifier 'obj',Semantic
+109,C++,Clang,unexpected character 'min',Lexical
+110,C,Clang,syntax error near 'beta',Syntactic
+111,C++,GCC,expected identifier or '(' before 'list',Syntactic
+112,C,Clang,expected '}' at end of input near 'size',Syntactic
+113,C++,Clang,invalid suffix 'epsilon' on integer constant,Lexical
+114,C,GCC,invalid character '?' in identifier,Lexical
+115,C,Clang,unexpected character 'admin',Lexical
+116,C++,GCC,missing whitespace after 'user',Lexical
+117,C++,Clang,syntax error near '>',Syntactic
+118,Python,Python,missing 'length' in expression,Syntactic
+119,C++,GCC,invalid suffix 'flag' on integer constant,Lexical
+120,C++,Clang,missing whitespace after 'x',Lexical
+121,C++,GCC,redefinition of 'temp',Semantic
+122,C,Clang,cannot convert 'count' to pointer,Semantic
+123,C,GCC,variable 'mode' is uninitialized when used here,Semantic
+124,C,GCC,TypeError: unsupported operand types for 'mean',Semantic
+125,C,Clang,cannot convert 'ptr' to pointer,Semantic
+126,C++,GCC,IndexError: 'count' index out of range,Semantic
+127,C,Clang,syntax error near 'width',Syntactic
+128,Python,Python,unterminated string literal '@',Lexical
+129,C,Clang,cannot convert 'var' to pointer,Semantic
+130,C,GCC,expected ')' matching '(' before 'name',Syntactic
+131,C,Clang,unexpected character 'buffer',Lexical
+132,C++,GCC,expected '}' at end of input near 'password',Syntactic
+133,C++,Clang,invalid character 'length' in identifier,Lexical
+134,C++,Clang,expected identifier or '(' before 'j',Syntactic
+135,C,Clang,expected ';' before 'flag',Syntactic
+136,C++,GCC,missing 'y' in expression,Syntactic
+137,C++,Clang,variable 'key' is uninitialized when used here,Semantic
+138,Python,Python,stray 'i' in program,Lexical
+139,C++,Clang,expected '}' at end of input near 'bar',Syntactic
+140,C++,Clang,unexpected character '&',Lexical
+141,C++,GCC,IndexError: 'value' index out of range,Semantic
+142,C,GCC,unterminated string literal 'x',Lexical
+143,C++,Clang,missing whitespace after 'width',Lexical
+144,C++,GCC,IndexError: 'max' index out of range,Semantic
+145,C++,GCC,incompatible types when assigning 'mode' to 'mode',Semantic
+146,C++,GCC,expected identifier or '(' before 'sum',Syntactic
+147,Python,Python,stray '>' in program,Lexical
+148,C,Clang,unexpected 'int',Syntactic
+149,C++,Clang,missing whitespace after '*',Lexical
+150,C++,GCC,stray '~' in program,Lexical
+151,C,Clang,unexpected character 'gamma',Lexical
+152,C++,Clang,invalid token 'item',Lexical
+153,Python,Python,invalid token 'i',Lexical
+154,C,GCC,IndexError: '=' index out of range,Semantic
+155,Python,Python,IndexError: 'average' index out of range,Semantic
+156,C++,Clang,missing 'min' in expression,Syntactic
+157,C++,GCC,cannot convert 'data' to pointer,Semantic
+158,C,GCC,incompatible types when assigning 'result' to 'result',Semantic
+159,C++,GCC,expected identifier or '(' before 'y',Syntactic
+160,Python,Python,invalid token 'val',Lexical
+161,C++,Clang,syntax error near '!',Syntactic
+162,C,GCC,incompatible types when assigning 'float' to 'float',Semantic
+163,C,Clang,invalid suffix 'y' on integer constant,Lexical
+164,C++,GCC,expected '}' at end of input near '%',Syntactic
+165,C++,Clang,use of undeclared identifier 'float',Semantic
+166,C++,GCC,invalid suffix 'ptr' on integer constant,Lexical
+167,C,Clang,expected '}' at end of input near 'num',Syntactic
+168,Python,Python,incompatible types when assigning '?' to '?',Semantic
+169,C++,GCC,use of undeclared identifier 'type',Semantic
+170,C,Clang,expected identifier or '(' before 'result',Syntactic
+171,Python,Python,missing 'result' in expression,Syntactic
+172,C++,GCC,TypeError: unsupported operand types for 'average',Semantic
+173,C,Clang,redefinition of '+',Semantic
+174,C++,Clang,expected '}' at end of input near 'test',Syntactic
+175,C,GCC,IndexError: 'foo' index out of range,Semantic
+176,C++,GCC,cannot convert 'state' to pointer,Semantic
+177,Python,Python,use of undeclared identifier 'flag',Semantic
+178,C,Clang,expected ';' before 'result',Syntactic
+179,C,GCC,unterminated string literal '/',Lexical
+180,C++,Clang,IndexError: 'buffer' index out of range,Semantic
+181,Python,Python,unterminated string literal 'buffer',Lexical
+182,C++,GCC,incompatible types when assigning 'index' to 'index',Semantic
+183,C,GCC,unexpected character 'int',Lexical
+184,C,Clang,syntax error near 'float',Syntactic
+185,C,Clang,expected identifier or '(' before '~',Syntactic
+186,C,Clang,incompatible types when assigning 'max' to 'max',Semantic
+187,C++,GCC,stray '-' in program,Lexical
+188,C++,GCC,variable 'epsilon' is uninitialized when used here,Semantic
+189,C++,GCC,variable '^' is uninitialized when used here,Semantic
+190,C++,Clang,syntax error near 'alpha',Syntactic
+191,C,Clang,expected ';' before 'password',Syntactic
+192,C,GCC,incompatible types when assigning 'type' to 'type',Semantic
+193,Python,Python,expected ')' matching '(' before '~',Syntactic
+194,C++,Clang,invalid character '@' in identifier,Lexical
+195,C++,GCC,use of undeclared identifier 'foo',Semantic
+196,C,Clang,variable 'index' is uninitialized when used here,Semantic
+197,Python,Python,missing whitespace after 'i',Lexical
+198,C++,GCC,expected '}' at end of input near 'max',Syntactic
+199,C,Clang,unexpected character 'alpha',Lexical
+200,C,GCC,expected '}' at end of input near 'double',Syntactic
+201,C,Clang,TypeError: unsupported operand types for 'total',Semantic
+202,Python,Python,redefinition of '?',Semantic
+203,C,Clang,cannot convert 'total' to pointer,Semantic
+204,C,GCC,redefinition of 'delta',Semantic
+205,C++,Clang,invalid suffix 'list' on integer constant,Lexical
+206,C,Clang,redefinition of 'obj',Semantic
+207,Python,Python,use of undeclared identifier 'buffer',Semantic
+208,C,Clang,TypeError: unsupported operand types for 'x',Semantic
+209,C,Clang,stray 'mean' in program,Lexical
+210,Python,Python,TypeError: unsupported operand types for 'alpha',Semantic
+211,Python,Python,expected '}' at end of input near '-',Syntactic
+212,Python,Python,cannot convert 'val' to pointer,Semantic
+213,C++,GCC,IndexError: 'node' index out of range,Semantic
+214,C,GCC,invalid suffix 'min' on integer constant,Lexical
+215,C,Clang,cannot convert 'length' to pointer,Semantic
+216,C++,Clang,cannot convert '?' to pointer,Semantic
+217,Python,Python,TypeError: unsupported operand types for 'obj',Semantic
+218,C,Clang,missing 'password' in expression,Syntactic
+219,C,Clang,missing whitespace after 'mean',Lexical
+220,Python,Python,TypeError: unsupported operand types for 'gamma',Semantic
+221,C,GCC,invalid suffix '-' on integer constant,Lexical
+222,Python,Python,missing whitespace after 'id',Lexical
+223,Python,Python,expected identifier or '(' before 'mean',Syntactic
+224,C,GCC,unterminated string literal 'test',Lexical
+225,C++,Clang,missing 'char' in expression,Syntactic
+226,Python,Python,expected ';' before 'delta',Syntactic
+227,C,GCC,missing 'id' in expression,Syntactic
+228,Python,Python,IndexError: 'temp' index out of range,Semantic
+229,C++,Clang,unexpected character 'status',Lexical
+230,C++,Clang,syntax error near 'data',Syntactic
+231,C++,Clang,redefinition of 'i',Semantic
+232,C++,Clang,expected '}' at end of input near 'min',Syntactic
+233,C,Clang,expected '}' at end of input near 'buffer',Syntactic
+234,C++,GCC,unterminated string literal 'omega',Lexical
+235,Python,Python,missing whitespace after 'index',Lexical
+236,C,GCC,IndexError: 'array' index out of range,Semantic
+237,C++,Clang,invalid suffix 'id' on integer constant,Lexical
+238,Python,Python,unterminated string literal 'flag',Lexical
+239,C,Clang,missing whitespace after 'delta',Lexical
+240,Python,Python,unterminated string literal 'value',Lexical
+241,Python,Python,expected '}' at end of input near 'i',Syntactic
+242,C,Clang,invalid suffix '^' on integer constant,Lexical
+243,C,Clang,expected '}' at end of input near 'alpha',Syntactic
+244,C,Clang,expected '}' at end of input near 'y',Syntactic
+245,C,GCC,TypeError: unsupported operand types for 'status',Semantic
+246,C++,Clang,stray 'x' in program,Lexical
+247,C,GCC,invalid token 'data',Lexical
+248,C++,Clang,missing 'state' in expression,Syntactic
+249,C,Clang,unterminated string literal 'mean',Lexical
+250,C,GCC,expected '}' at end of input near 'omega',Syntactic
+251,C,GCC,expected '}' at end of input near 'status',Syntactic
+252,C,Clang,unexpected character '-',Lexical
+253,Python,Python,redefinition of '~',Semantic
+254,C,GCC,variable 'bar' is uninitialized when used here,Semantic
+255,Python,Python,invalid token 'average',Lexical
+256,C++,GCC,unexpected 'user',Syntactic
+257,C,GCC,unexpected 'count',Syntactic
+258,C,GCC,missing whitespace after 'array',Lexical
+259,C,GCC,unexpected 'item',Syntactic
+260,C++,GCC,missing whitespace after 'flag',Lexical
+261,C,GCC,missing 'total' in expression,Syntactic
+262,C,GCC,IndexError: 'name' index out of range,Semantic
+263,C,GCC,redefinition of 'buffer',Semantic
+264,C,GCC,invalid character 'val' in identifier,Lexical
+265,C,Clang,cannot convert '~' to pointer,Semantic
+266,C++,Clang,unexpected 'password',Syntactic
+267,C++,GCC,variable 'var' is uninitialized when used here,Semantic
+268,Python,Python,IndexError: 'var' index out of range,Semantic
+269,C,Clang,unexpected 'flag',Syntactic
+270,C++,Clang,incompatible types when assigning 'alpha' to 'alpha',Semantic
+271,C++,GCC,cannot convert 'beta' to pointer,Semantic
+272,C,Clang,incompatible types when assigning 'double' to 'double',Semantic
+273,C++,GCC,invalid character 'var' in identifier,Lexical
+274,C++,GCC,cannot convert 'node' to pointer,Semantic
+275,Python,Python,expected '}' at end of input near 'mode',Syntactic
+276,C,Clang,stray '^' in program,Lexical
+277,C++,Clang,missing 'type' in expression,Syntactic
+278,C++,Clang,invalid suffix 'obj' on integer constant,Lexical
+279,Python,Python,invalid token 'buffer',Lexical
+280,C++,GCC,expected ';' before 'foo',Syntactic
+281,C,GCC,invalid token 'test',Lexical
+282,Python,Python,unexpected 'state',Syntactic
+283,Python,Python,invalid suffix 'var' on integer constant,Lexical
+284,C++,GCC,use of undeclared identifier 'num',Semantic
+285,C,GCC,stray 'val' in program,Lexical
+286,C++,Clang,IndexError: 'beta' index out of range,Semantic
+287,C++,Clang,IndexError: 'x' index out of range,Semantic
+288,C,GCC,syntax error near '|',Syntactic
+289,C,Clang,syntax error near 'j',Syntactic
+290,C++,Clang,syntax error near 'delta',Syntactic
+291,C++,Clang,expected identifier or '(' before 'ptr',Syntactic
+292,C,GCC,cannot convert 'result' to pointer,Semantic
+293,C,Clang,expected identifier or '(' before 'width',Syntactic
+294,Python,Python,expected ')' matching '(' before 'gamma',Syntactic
+295,C,Clang,missing '@' in expression,Syntactic
+296,C++,Clang,variable 'size' is uninitialized when used here,Semantic
+297,Python,Python,invalid character 'min' in identifier,Lexical
+298,C++,Clang,redefinition of 'type',Semantic
+299,C++,GCC,IndexError: '*' index out of range,Semantic
+300,C++,GCC,redefinition of 'ptr',Semantic
+301,C,Clang,unexpected character '!',Lexical
+302,Python,Python,invalid token 'epsilon',Lexical
+303,C,Clang,use of undeclared identifier 'min',Semantic
+304,C,Clang,invalid character 'y' in identifier,Lexical
+305,C,Clang,expected ';' before 'total',Syntactic
+306,C++,GCC,invalid suffix 'gamma' on integer constant,Lexical
+307,C++,Clang,TypeError: unsupported operand types for 'i',Semantic
+308,C++,Clang,use of undeclared identifier 'height',Semantic
+309,C,GCC,incompatible types when assigning 'sum' to 'sum',Semantic
+310,C++,GCC,invalid suffix 'sum' on integer constant,Lexical
+311,C++,Clang,unexpected character 'name',Lexical
+312,C++,GCC,TypeError: unsupported operand types for '=',Semantic
+313,C,Clang,invalid token '<',Lexical
+314,Python,Python,expected '}' at end of input near 'width',Syntactic
+315,C++,GCC,stray 'mode' in program,Lexical
+316,C,Clang,expected ';' before '%',Syntactic
+317,C,GCC,unexpected character 'type',Lexical
+318,C,Clang,cannot convert 'double' to pointer,Semantic
+319,Python,Python,unexpected character 'i',Lexical
+320,C++,Clang,TypeError: unsupported operand types for 'size',Semantic
+321,C++,GCC,variable '!' is uninitialized when used here,Semantic
+322,C++,GCC,stray 'test' in program,Lexical
+323,C,GCC,use of undeclared identifier 'alpha',Semantic
+324,C,Clang,syntax error near 'length',Syntactic
+325,Python,Python,incompatible types when assigning 'list' to 'list',Semantic
+326,C,GCC,cannot convert 'average' to pointer,Semantic
+327,C++,GCC,cannot convert 'password' to pointer,Semantic
+328,C,GCC,unexpected 'key',Syntactic
+329,C++,Clang,use of undeclared identifier 'j',Semantic
+330,C,GCC,expected ';' before 'mode',Syntactic
+331,Python,Python,expected identifier or '(' before 'val',Syntactic
+332,C++,GCC,variable '=' is uninitialized when used here,Semantic
+333,C,Clang,syntax error near 'double',Syntactic
+334,C,GCC,expected ')' matching '(' before 'list',Syntactic
+335,C,GCC,missing '|' in expression,Syntactic
+336,C,GCC,redefinition of 'flag',Semantic
+337,C++,GCC,unexpected 'ptr',Syntactic
+338,C++,GCC,incompatible types when assigning '+' to '+',Semantic
+339,Python,Python,expected '}' at end of input near '<',Syntactic
+340,C++,GCC,syntax error near 'admin',Syntactic
+341,C,GCC,use of undeclared identifier 'key',Semantic
+342,Python,Python,expected ')' matching '(' before 'val',Syntactic
+343,C++,GCC,use of undeclared identifier 'sum',Semantic
+344,Python,Python,unexpected 'average',Syntactic
+345,C,Clang,expected identifier or '(' before 'height',Syntactic
+346,C++,GCC,unexpected character '>',Lexical
+347,C++,GCC,invalid suffix '<' on integer constant,Lexical
+348,Python,Python,redefinition of 'double',Semantic
+349,C++,Clang,redefinition of '^',Semantic
+350,C++,Clang,missing whitespace after '^',Lexical
+351,C++,Clang,invalid character 'temp' in identifier,Lexical
+352,C++,Clang,stray 'type' in program,Lexical
+353,C++,Clang,invalid character 'max' in identifier,Lexical
+354,Python,Python,expected ';' before 'beta',Syntactic
+355,C,GCC,unexpected character 'char',Lexical
+356,C++,Clang,invalid suffix '?' on integer constant,Lexical
+357,C++,GCC,use of undeclared identifier 'data',Semantic
+358,C++,Clang,syntax error near 'node',Syntactic
+359,C,GCC,expected identifier or '(' before 'average',Syntactic
+360,C,GCC,variable 'average' is uninitialized when used here,Semantic
+361,Python,Python,expected identifier or '(' before '%',Syntactic
+362,Python,Python,invalid suffix 'str' on integer constant,Lexical
+363,C++,Clang,unexpected '!',Syntactic
+364,C++,GCC,unexpected 'alpha',Syntactic
+365,C,Clang,unexpected 'x',Syntactic
+366,C,GCC,syntax error near 'index',Syntactic
+367,C++,Clang,incompatible types when assigning 'var' to 'var',Semantic
+368,Python,Python,unexpected character 'x',Lexical
+369,C++,Clang,invalid suffix 'height' on integer constant,Lexical
+370,C,Clang,unexpected character 'count',Lexical
+371,Python,Python,invalid token 'list',Lexical
+372,C++,Clang,expected identifier or '(' before 'max',Syntactic
+373,C++,GCC,missing whitespace after 'val',Lexical
+374,C++,GCC,TypeError: unsupported operand types for '-',Semantic
+375,C++,Clang,invalid character 'status' in identifier,Lexical
+376,Python,Python,missing 'user' in expression,Syntactic
+377,C++,GCC,invalid token 'type',Lexical
+378,C,GCC,use of undeclared identifier 'gamma',Semantic
+379,C,GCC,expected ')' matching '(' before 'item',Syntactic
+380,Python,Python,missing whitespace after 'double',Lexical
+381,C++,Clang,invalid token 'status',Lexical
+382,C++,GCC,missing 'x' in expression,Syntactic
+383,C,Clang,syntax error near 'i',Syntactic
+384,C,Clang,invalid character 'buffer' in identifier,Lexical
+385,Python,Python,stray 'beta' in program,Lexical
+386,C++,GCC,expected ';' before 'admin',Syntactic
+387,C,GCC,invalid character 'j' in identifier,Lexical
+388,C,GCC,cannot convert 'omega' to pointer,Semantic
+389,Python,Python,IndexError: 'delta' index out of range,Semantic
+390,C,GCC,missing 'status' in expression,Syntactic
+391,C,GCC,unexpected character 'test',Lexical
+392,C,Clang,unexpected character '/',Lexical
+393,C,GCC,use of undeclared identifier 'str',Semantic
+394,C++,GCC,syntax error near 'max',Syntactic
+395,C++,Clang,unexpected 'max',Syntactic
+396,C++,GCC,missing 'double' in expression,Syntactic
+397,Python,Python,expected ')' matching '(' before '&',Syntactic
+398,C,Clang,variable 'type' is uninitialized when used here,Semantic
+399,Python,Python,TypeError: unsupported operand types for 'test',Semantic
+400,C++,Clang,invalid character '&' in identifier,Lexical
+401,Python,Python,cannot convert 'epsilon' to pointer,Semantic
+402,Python,Python,unterminated string literal 'sum',Lexical
+403,C,GCC,unexpected '-',Syntactic
+404,Python,Python,use of undeclared identifier 'max',Semantic
+405,C++,Clang,cannot convert 'num' to pointer,Semantic
+406,Python,Python,incompatible types when assigning 'str' to 'str',Semantic
+407,C,Clang,unterminated string literal 'width',Lexical
+408,C,Clang,missing 'gamma' in expression,Syntactic
+409,C,Clang,expected ')' matching '(' before 'sum',Syntactic
+410,C++,GCC,expected ')' matching '(' before 'y',Syntactic
+411,Python,Python,unexpected 'length',Syntactic
+412,C++,GCC,IndexError: 'length' index out of range,Semantic
+413,C++,GCC,missing whitespace after '=',Lexical
+414,C,GCC,incompatible types when assigning '=' to '=',Semantic
+415,C,Clang,TypeError: unsupported operand types for 'sum',Semantic
+416,Python,Python,IndexError: 'index' index out of range,Semantic
+417,C,GCC,unterminated string literal '+',Lexical
+418,Python,Python,TypeError: unsupported operand types for 'foo',Semantic
+419,Python,Python,expected ';' before 'str',Syntactic
+420,C,GCC,TypeError: unsupported operand types for 'password',Semantic
+421,C,Clang,stray 'epsilon' in program,Lexical
+422,C++,GCC,invalid token 'sum',Lexical
+423,C,GCC,missing 'float' in expression,Syntactic
+424,C,GCC,incompatible types when assigning 'height' to 'height',Semantic
+425,C++,Clang,unterminated string literal 'list',Lexical
+426,C,GCC,variable 'num' is uninitialized when used here,Semantic
+427,Python,Python,TypeError: unsupported operand types for 'node',Semantic
+428,C,Clang,stray 'y' in program,Lexical
+429,C++,Clang,cannot convert '|' to pointer,Semantic
+430,C,GCC,redefinition of '%',Semantic
+431,C,GCC,stray 'list' in program,Lexical
+432,C,Clang,incompatible types when assigning 'foo' to 'foo',Semantic
+433,C++,Clang,expected ')' matching '(' before 'bar',Syntactic
+434,C,GCC,syntax error near 'sum',Syntactic
+435,Python,Python,expected '}' at end of input near 'beta',Syntactic
+436,C,Clang,expected ')' matching '(' before 'var',Syntactic
+437,C++,Clang,invalid token 'length',Lexical
+438,C,GCC,variable 'name' is uninitialized when used here,Semantic
+439,C,Clang,expected ';' before '&',Syntactic
+440,C++,Clang,expected ')' matching '(' before 'mode',Syntactic
+441,C++,Clang,unexpected character 'var',Lexical
+442,C++,GCC,cannot convert 'height' to pointer,Semantic
+443,C++,Clang,missing whitespace after '!',Lexical
+444,C++,GCC,invalid token '=',Lexical
+445,C++,GCC,unexpected character 'double',Lexical
+446,C,Clang,invalid token 'y',Lexical
+447,C++,Clang,stray 'admin' in program,Lexical
+448,C++,Clang,IndexError: 'double' index out of range,Semantic
+449,Python,Python,IndexError: 'key' index out of range,Semantic
+450,C,GCC,expected identifier or '(' before '+',Syntactic
+451,C,Clang,incompatible types when assigning 'mean' to 'mean',Semantic
+452,C++,GCC,unexpected character 'epsilon',Lexical
+453,C,Clang,use of undeclared identifier 'var',Semantic
+454,C++,Clang,expected ';' before '-',Syntactic
+455,C,GCC,variable 'id' is uninitialized when used here,Semantic
+456,C,Clang,unterminated string literal 'key',Lexical
+457,C++,GCC,invalid token 'name',Lexical
+458,Python,Python,expected ')' matching '(' before 'flag',Syntactic
+459,C++,GCC,unexpected 'gamma',Syntactic
+460,Python,Python,missing whitespace after 'height',Lexical
+461,Python,Python,invalid suffix 'width' on integer constant,Lexical
+462,C++,Clang,redefinition of 'foo',Semantic
+463,C++,Clang,invalid character '~' in identifier,Lexical
+464,C++,GCC,use of undeclared identifier 'ptr',Semantic
+465,C,GCC,incompatible types when assigning 'ptr' to 'ptr',Semantic
+466,C++,GCC,redefinition of 'bar',Semantic
+467,C,GCC,unexpected character 'sum',Lexical
+468,Python,Python,missing 'mean' in expression,Syntactic
+469,C++,GCC,expected ';' before 'count',Syntactic
+470,C,Clang,variable 'buffer' is uninitialized when used here,Semantic
+471,C++,GCC,variable 'height' is uninitialized when used here,Semantic
+472,C,Clang,incompatible types when assigning 'gamma' to 'gamma',Semantic
+473,C,Clang,unexpected character '<',Lexical
+474,Python,Python,redefinition of 'omega',Semantic
+475,C,GCC,expected ';' before 'type',Syntactic
+476,C,GCC,invalid suffix 'delta' on integer constant,Lexical
+477,C,Clang,redefinition of 'key',Semantic
+478,Python,Python,invalid token 'gamma',Lexical
+479,C,GCC,use of undeclared identifier 'x',Semantic
+480,C++,Clang,expected ';' before 'user',Syntactic
+481,C++,GCC,use of undeclared identifier 'item',Semantic
+482,Python,Python,unterminated string literal '-',Lexical
+483,C,Clang,expected ')' matching '(' before 'array',Syntactic
+484,C++,GCC,invalid suffix 'password' on integer constant,Lexical
+485,C,Clang,unexpected 'omega',Syntactic
+486,Python,Python,TypeError: unsupported operand types for 'bar',Semantic
+487,C++,GCC,IndexError: 'num' index out of range,Semantic
+488,C++,GCC,expected ';' before 'epsilon',Syntactic
+489,C,GCC,variable 'str' is uninitialized when used here,Semantic
+490,Python,Python,expected identifier or '(' before 'status',Syntactic
+491,Python,Python,missing '%' in expression,Syntactic
+492,C++,GCC,unexpected character '*',Lexical
+493,C++,Clang,missing '!' in expression,Syntactic
+494,Python,Python,expected ';' before '/',Syntactic
+495,C++,GCC,missing whitespace after 'gamma',Lexical
+496,C++,Clang,unterminated string literal 'delta',Lexical
+497,C++,Clang,unterminated string literal '^',Lexical
+498,C,GCC,redefinition of 'var',Semantic
+499,C++,Clang,invalid token 'ptr',Lexical
+500,Python,Python,unexpected 'list',Syntactic
+501,C++,Clang,stray 'name' in program,Lexical
+502,Python,Python,unterminated string literal '<',Lexical
+503,C,GCC,expected ';' before '>',Syntactic
+504,C,Clang,invalid suffix 'int' on integer constant,Lexical
+505,C,GCC,expected identifier or '(' before 'char',Syntactic
+506,Python,Python,invalid suffix 'type' on integer constant,Lexical
+507,Python,Python,use of undeclared identifier 'id',Semantic
+508,Python,Python,expected ')' matching '(' before 'temp',Syntactic
+509,C,Clang,cannot convert 'value' to pointer,Semantic
+510,C++,GCC,invalid suffix 'item' on integer constant,Lexical
+511,C++,Clang,redefinition of 'user',Semantic
+512,C++,Clang,use of undeclared identifier 'epsilon',Semantic
+513,C++,GCC,unexpected character 'user',Lexical
+514,C,GCC,incompatible types when assigning 'size' to 'size',Semantic
+515,C++,GCC,cannot convert 'max' to pointer,Semantic
+516,C++,GCC,IndexError: 'int' index out of range,Semantic
+517,C,Clang,expected ';' before '+',Syntactic
+518,C++,Clang,missing whitespace after '+',Lexical
+519,C,Clang,stray 'num' in program,Lexical
+520,Python,Python,unexpected character '?',Lexical
+521,C,GCC,cannot convert '-' to pointer,Semantic
+522,C,Clang,redefinition of 'height',Semantic
+523,C,Clang,incompatible types when assigning 'obj' to 'obj',Semantic
+524,C++,Clang,variable '+' is uninitialized when used here,Semantic
+525,C++,GCC,redefinition of '|',Semantic
+526,C++,Clang,invalid character 'user' in identifier,Lexical
+527,C++,Clang,variable 'array' is uninitialized when used here,Semantic
+528,C++,Clang,unterminated string literal 'int',Lexical
+529,C,GCC,expected ';' before '<',Syntactic
+530,C,GCC,invalid token 'key',Lexical
+531,C++,GCC,expected identifier or '(' before 'item',Syntactic
+532,Python,Python,invalid character 'mode' in identifier,Lexical
+533,C++,Clang,TypeError: unsupported operand types for 'id',Semantic
+534,C,Clang,invalid token '?',Lexical
+535,C++,Clang,expected ')' matching '(' before 'status',Syntactic
+536,C++,GCC,expected ';' before 'status',Syntactic
+537,Python,Python,missing '=' in expression,Syntactic
+538,C,Clang,syntax error near 'list',Syntactic
+539,C,Clang,missing 'delta' in expression,Syntactic
+540,Python,Python,use of undeclared identifier 'length',Semantic
+541,C,GCC,missing 'sum' in expression,Syntactic
+542,C++,Clang,expected identifier or '(' before 'foo',Syntactic
+543,C++,Clang,unexpected 'node',Syntactic
+544,Python,Python,missing 'size' in expression,Syntactic
+545,C,Clang,variable 'state' is uninitialized when used here,Semantic
+546,C++,GCC,syntax error near 'id',Syntactic
+547,C,GCC,cannot convert 'item' to pointer,Semantic
+548,Python,Python,unterminated string literal 'name',Lexical
+549,C++,Clang,missing 'val' in expression,Syntactic
+550,C,GCC,invalid token 'total',Lexical
+551,C++,GCC,invalid token 'alpha',Lexical
+552,C,GCC,syntax error near 'value',Syntactic
+553,C++,GCC,unexpected '=',Syntactic
+554,Python,Python,stray 'array' in program,Lexical
+555,C++,Clang,expected identifier or '(' before '>',Syntactic
+556,C,Clang,unterminated string literal 'var',Lexical
+557,C,Clang,redefinition of 'str',Semantic
+558,C++,Clang,expected ')' matching '(' before 'value',Syntactic
+559,C,GCC,variable 'j' is uninitialized when used here,Semantic
+560,C++,Clang,expected identifier or '(' before 'var',Syntactic
+561,C,GCC,expected identifier or '(' before 'bar',Syntactic
+562,C,Clang,variable 'ptr' is uninitialized when used here,Semantic
+563,C,GCC,unterminated string literal 'char',Lexical
+564,C,GCC,invalid token 'obj',Lexical
+565,C++,GCC,incompatible types when assigning 'num' to 'num',Semantic
+566,C++,GCC,syntax error near 'average',Syntactic
+567,Python,Python,expected '}' at end of input near '~',Syntactic
+568,C,GCC,syntax error near '~',Syntactic
+569,C,GCC,expected ')' matching '(' before 'user',Syntactic
+570,C,Clang,unterminated string literal 'temp',Lexical
+571,C++,GCC,expected identifier or '(' before 'epsilon',Syntactic
+572,C++,GCC,redefinition of 'list',Semantic
+573,C++,GCC,variable 'x' is uninitialized when used here,Semantic
+574,C++,Clang,unterminated string literal 'float',Lexical
+575,C,GCC,IndexError: 'height' index out of range,Semantic
+576,C++,GCC,unexpected '<',Syntactic
+577,C,GCC,missing whitespace after 'length',Lexical
+578,C,GCC,invalid token 'beta',Lexical
+579,Python,Python,expected '}' at end of input near 'total',Syntactic
+580,C,Clang,use of undeclared identifier '|',Semantic
+581,C++,GCC,missing whitespace after 'temp',Lexical
+582,Python,Python,TypeError: unsupported operand types for '&',Semantic
+583,C,Clang,unterminated string literal 'count',Lexical
+584,C,GCC,expected identifier or '(' before '&',Syntactic
+585,Python,Python,expected identifier or '(' before 'flag',Syntactic
+586,C++,Clang,expected '}' at end of input near 'item',Syntactic
+587,Python,Python,expected ')' matching '(' before 'foo',Syntactic
+588,C++,Clang,syntax error near '+',Syntactic
+589,C,GCC,expected '}' at end of input near '!',Syntactic
+590,C,GCC,variable 'temp' is uninitialized when used here,Semantic
+591,C,Clang,expected ';' before 'j',Syntactic
+592,C++,GCC,missing '<' in expression,Syntactic
+593,C,GCC,unterminated string literal 'password',Lexical
+594,Python,Python,missing whitespace after 'item',Lexical
+595,C++,Clang,redefinition of 'alpha',Semantic
+596,C++,Clang,missing 'width' in expression,Syntactic
+597,C++,GCC,expected identifier or '(' before 'i',Syntactic
+598,Python,Python,unexpected '*',Syntactic
+599,C++,GCC,invalid token 'float',Lexical
+600,C++,GCC,expected ')' matching '(' before '=',Syntactic
+601,C,GCC,expected ')' matching '(' before 'result',Syntactic
+602,C++,GCC,TypeError: unsupported operand types for 'result',Semantic
+603,C,GCC,cannot convert 'status' to pointer,Semantic
+604,C,GCC,use of undeclared identifier 'state',Semantic
+605,C++,GCC,invalid token '/',Lexical
+606,C++,GCC,expected ';' before 'state',Syntactic
+607,C,Clang,expected '}' at end of input near 'average',Syntactic
+608,C++,GCC,stray 'item' in program,Lexical
+609,C++,GCC,missing whitespace after 'buffer',Lexical
+610,Python,Python,TypeError: unsupported operand types for 'max',Semantic
+611,Python,Python,incompatible types when assigning 'test' to 'test',Semantic
+612,C++,GCC,IndexError: '>' index out of range,Semantic
+613,Python,Python,missing whitespace after '?',Lexical
+614,C++,GCC,use of undeclared identifier '*',Semantic
+615,C,Clang,incompatible types when assigning 'x' to 'x',Semantic
+616,C++,Clang,stray 'gamma' in program,Lexical
+617,C,GCC,cannot convert 'bar' to pointer,Semantic
+618,C,Clang,expected '}' at end of input near 'char',Syntactic
+619,C,Clang,expected ';' before '?',Syntactic
+620,C,GCC,invalid character '/' in identifier,Lexical
+621,C++,GCC,expected identifier or '(' before 'temp',Syntactic
+622,Python,Python,invalid character 'array' in identifier,Lexical
+623,C,Clang,TypeError: unsupported operand types for 'admin',Semantic
+624,C,GCC,use of undeclared identifier '=',Semantic
+625,Python,Python,expected '}' at end of input near '?',Syntactic
+626,C++,GCC,missing whitespace after '/',Lexical
+627,C,GCC,expected ')' matching '(' before '@',Syntactic
+628,C,GCC,incompatible types when assigning '^' to '^',Semantic
+629,C,GCC,invalid character 'bar' in identifier,Lexical
+630,C++,Clang,incompatible types when assigning 'item' to 'item',Semantic
+631,Python,Python,missing '+' in expression,Syntactic
+632,Python,Python,cannot convert 'mean' to pointer,Semantic
+633,C,GCC,expected ')' matching '(' before 'int',Syntactic
+634,C,Clang,unexpected character '+',Lexical
+635,Python,Python,redefinition of '!',Semantic
+636,C++,GCC,unterminated string literal 'max',Lexical
+637,C,Clang,TypeError: unsupported operand types for 'name',Semantic
+638,C++,Clang,IndexError: 'float' index out of range,Semantic
+639,C++,Clang,unexpected 'status',Syntactic
+640,Python,Python,IndexError: '-' index out of range,Semantic
+641,Python,Python,missing 'var' in expression,Syntactic
+642,C++,Clang,cannot convert 'float' to pointer,Semantic
+643,C++,Clang,invalid suffix 'mode' on integer constant,Lexical
+644,C++,Clang,expected ';' before 'index',Syntactic
+645,C++,Clang,missing whitespace after 'state',Lexical
+646,C,GCC,invalid character 'admin' in identifier,Lexical
+647,C++,GCC,syntax error near 'password',Syntactic
+648,C++,GCC,use of undeclared identifier 'name',Semantic
+649,C++,Clang,unexpected 'double',Syntactic
+650,C,GCC,use of undeclared identifier 'status',Semantic
+651,C,GCC,unterminated string literal 'double',Lexical
+652,Python,Python,incompatible types when assigning 'buffer' to 'buffer',Semantic
+653,C,GCC,use of undeclared identifier 'mode',Semantic
+654,C,GCC,invalid suffix 'char' on integer constant,Lexical
+655,Python,Python,expected '}' at end of input near 'foo',Syntactic
+656,C,GCC,unterminated string literal 'beta',Lexical
+657,Python,Python,missing 'temp' in expression,Syntactic
+658,C++,GCC,syntax error near 'gamma',Syntactic
+659,C,Clang,invalid character '!' in identifier,Lexical
+660,C++,Clang,missing 'foo' in expression,Syntactic
+661,C++,GCC,invalid character '<' in identifier,Lexical
+662,C++,Clang,unexpected character 'float',Lexical
+663,C++,GCC,IndexError: 'data' index out of range,Semantic
+664,C++,Clang,missing 'item' in expression,Syntactic
+665,C++,Clang,missing 'obj' in expression,Syntactic
+666,C++,Clang,cannot convert 'j' to pointer,Semantic
+667,C,GCC,redefinition of 'j',Semantic
+668,C++,Clang,unexpected character 'data',Lexical
+669,Python,Python,TypeError: unsupported operand types for 'data',Semantic
+670,C++,Clang,TypeError: unsupported operand types for '>',Semantic
+671,C,GCC,IndexError: 'bar' index out of range,Semantic
+672,Python,Python,cannot convert 'y' to pointer,Semantic
+673,C,GCC,variable 'obj' is uninitialized when used here,Semantic
+674,C++,GCC,invalid token 'bar',Lexical
+675,C,GCC,invalid suffix 'state' on integer constant,Lexical
+676,C,GCC,expected ';' before 'double',Syntactic
+677,C++,Clang,expected identifier or '(' before '!',Syntactic
+678,C,GCC,invalid character '>' in identifier,Lexical
+679,Python,Python,missing whitespace after 'epsilon',Lexical
+680,C++,Clang,IndexError: 'char' index out of range,Semantic
+681,C,Clang,unexpected character '%',Lexical
+682,C++,GCC,stray 'obj' in program,Lexical
+683,Python,Python,invalid character 'total' in identifier,Lexical
+684,C,Clang,expected ')' matching '(' before '-',Syntactic
+685,C,GCC,missing whitespace after '%',Lexical
+686,C++,GCC,TypeError: unsupported operand types for 'beta',Semantic
+687,Python,Python,use of undeclared identifier 'password',Semantic
+688,C++,Clang,invalid character 'ptr' in identifier,Lexical
+689,Python,Python,stray 'ptr' in program,Lexical
+690,C,Clang,invalid character '%' in identifier,Lexical
+691,Python,Python,variable 'double' is uninitialized when used here,Semantic
+692,C++,GCC,missing 'str' in expression,Syntactic
+693,C++,GCC,missing whitespace after '~',Lexical
+694,C++,Clang,incompatible types when assigning 'value' to 'value',Semantic
+695,C,Clang,invalid suffix 'count' on integer constant,Lexical
+696,C++,GCC,invalid token '&',Lexical
+697,C++,Clang,unexpected character 'height',Lexical
+698,C,Clang,stray 'key' in program,Lexical
+699,C++,GCC,incompatible types when assigning 'id' to 'id',Semantic
+700,C++,Clang,missing whitespace after 'key',Lexical
+701,Python,Python,expected '}' at end of input near 'name',Syntactic
+702,C,Clang,variable '@' is uninitialized when used here,Semantic
+703,C++,Clang,missing whitespace after 'ptr',Lexical
+704,C,GCC,unexpected character 'length',Lexical
+705,C,Clang,stray 'max' in program,Lexical
+706,C,GCC,missing whitespace after 'sum',Lexical
+707,C++,Clang,expected identifier or '(' before '*',Syntactic
+708,C++,Clang,TypeError: unsupported operand types for 'float',Semantic
+709,C,Clang,expected ')' matching '(' before 'epsilon',Syntactic
+710,Python,Python,stray 'length' in program,Lexical
+711,Python,Python,use of undeclared identifier 'y',Semantic
+712,C++,Clang,missing whitespace after '&',Lexical
+713,C++,GCC,missing 'name' in expression,Syntactic
+714,C++,Clang,invalid character 'list' in identifier,Lexical
+715,C++,GCC,unterminated string literal 'epsilon',Lexical
+716,C,Clang,missing whitespace after '@',Lexical
+717,C,GCC,invalid token 'mode',Lexical
+718,C++,GCC,unterminated string literal 'bar',Lexical
+719,C++,Clang,variable 'test' is uninitialized when used here,Semantic
+720,Python,Python,missing whitespace after 'str',Lexical
+721,C++,GCC,incompatible types when assigning 'password' to 'password',Semantic
+722,C,GCC,redefinition of 'id',Semantic
+723,C,GCC,invalid token 'num',Lexical
+724,Python,Python,expected identifier or '(' before 'node',Syntactic
+725,C,Clang,unexpected character 'str',Lexical
+726,C++,Clang,variable 'char' is uninitialized when used here,Semantic
+727,C++,Clang,cannot convert '<' to pointer,Semantic
+728,C,GCC,expected ';' before 'min',Syntactic
+729,C,GCC,expected identifier or '(' before 'state',Syntactic
+730,C++,Clang,syntax error near 'test',Syntactic
+731,C++,GCC,expected '}' at end of input near 'length',Syntactic
+732,Python,Python,incompatible types when assigning 'beta' to 'beta',Semantic
+733,C++,Clang,missing 'num' in expression,Syntactic
+734,C++,GCC,incompatible types when assigning 'key' to 'key',Semantic
+735,C++,Clang,TypeError: unsupported operand types for 'flag',Semantic
+736,C,GCC,IndexError: 'id' index out of range,Semantic
+737,C++,GCC,cannot convert 'str' to pointer,Semantic
+738,C++,GCC,invalid token '-',Lexical
+739,C,Clang,unterminated string literal 'state',Lexical
+740,C++,GCC,expected ')' matching '(' before '<',Syntactic
+741,C,Clang,incompatible types when assigning '/' to '/',Semantic
+742,Python,Python,variable 'foo' is uninitialized when used here,Semantic
+743,Python,Python,missing whitespace after 'alpha',Lexical
+744,C,Clang,expected '}' at end of input near 'count',Syntactic
+745,Python,Python,stray 'id' in program,Lexical
+746,Python,Python,TypeError: unsupported operand types for 'char',Semantic
+747,C++,GCC,invalid token 'array',Lexical
+748,C++,GCC,unterminated string literal 'num',Lexical
+749,C,Clang,redefinition of 'epsilon',Semantic
+750,C,GCC,expected ';' before 'item',Syntactic
+751,C,GCC,unterminated string literal '?',Lexical
+752,C++,Clang,expected '}' at end of input near 'list',Syntactic
+753,C,GCC,unexpected '/',Syntactic
+754,C,Clang,expected identifier or '(' before 'gamma',Syntactic
+755,Python,Python,use of undeclared identifier '%',Semantic
+756,C,GCC,invalid suffix 'average' on integer constant,Lexical
+757,C++,Clang,IndexError: 'omega' index out of range,Semantic
+758,C,GCC,TypeError: unsupported operand types for 'str',Semantic
+759,C++,GCC,unexpected 'beta',Syntactic
+760,C++,GCC,unexpected 'var',Syntactic
+761,C,Clang,stray '<' in program,Lexical
+762,C++,Clang,invalid suffix '!' on integer constant,Lexical
+763,C++,GCC,cannot convert 'mode' to pointer,Semantic
+764,C++,GCC,syntax error near 'status',Syntactic
+765,C++,GCC,TypeError: unsupported operand types for 'epsilon',Semantic
+766,C++,GCC,missing 'beta' in expression,Syntactic
+767,C,Clang,redefinition of 'gamma',Semantic
+768,Python,Python,expected identifier or '(' before 'user',Syntactic
+769,C++,Clang,invalid suffix '~' on integer constant,Lexical
+770,Python,Python,invalid suffix 'name' on integer constant,Lexical
+771,C,GCC,syntax error near 'obj',Syntactic
+772,C++,GCC,unexpected 'min',Syntactic
+773,C++,Clang,redefinition of '>',Semantic
+774,Python,Python,unexpected character 'total',Lexical
+775,C++,GCC,use of undeclared identifier 'index',Semantic
+776,C,GCC,redefinition of '-',Semantic
+777,C,Clang,invalid character 'average' in identifier,Lexical
+778,C++,Clang,invalid suffix 'temp' on integer constant,Lexical
+779,C,GCC,expected identifier or '(' before 'float',Syntactic
+780,Python,Python,missing 'admin' in expression,Syntactic
+781,C,Clang,incompatible types when assigning 'i' to 'i',Semantic
+782,C,Clang,expected identifier or '(' before '-',Syntactic
+783,C++,Clang,unterminated string literal '%',Lexical
+784,C++,Clang,incompatible types when assigning 'user' to 'user',Semantic
+785,C++,GCC,TypeError: unsupported operand types for '@',Semantic
+786,C++,Clang,cannot convert 'size' to pointer,Semantic
+787,Python,Python,missing whitespace after 'test',Lexical
+788,C,Clang,stray 'status' in program,Lexical
+789,C,Clang,TypeError: unsupported operand types for 'int',Semantic
+790,C,GCC,invalid suffix 'num' on integer constant,Lexical
+791,C++,GCC,redefinition of 'max',Semantic
+792,C++,GCC,invalid character 'name' in identifier,Lexical
+793,C,GCC,redefinition of 'min',Semantic
+794,C++,GCC,unterminated string literal 'total',Lexical
+795,C++,GCC,expected ';' before 'i',Syntactic
+796,C,GCC,missing whitespace after 'data',Lexical
+797,Python,Python,expected ')' matching '(' before 'node',Syntactic
+798,C++,GCC,expected ';' before 'omega',Syntactic
+799,C++,Clang,unterminated string literal 'data',Lexical
+800,Python,Python,variable '>' is uninitialized when used here,Semantic
+801,C++,GCC,redefinition of 'mean',Semantic
+802,C,Clang,unexpected character 'state',Lexical
+803,C++,Clang,TypeError: unsupported operand types for '^',Semantic
+804,C,GCC,missing whitespace after 'num',Lexical
+805,C,Clang,invalid token 'count',Lexical
+806,C++,GCC,unexpected character 'mean',Lexical
+807,C++,GCC,redefinition of 'array',Semantic
+808,C,Clang,stray 'flag' in program,Lexical
+809,C++,Clang,stray '&' in program,Lexical
+810,C,Clang,expected '}' at end of input near '&',Syntactic
+811,C++,GCC,TypeError: unsupported operand types for 'j',Semantic
+812,Python,Python,invalid suffix 'omega' on integer constant,Lexical
+813,C,Clang,invalid token '*',Lexical
+814,C,Clang,stray 'float' in program,Lexical
+815,C++,Clang,expected '}' at end of input near 'index',Syntactic
+816,C,GCC,missing whitespace after 'int',Lexical
+817,C,Clang,variable '?' is uninitialized when used here,Semantic
+818,C++,Clang,unexpected '^',Syntactic
+819,C,Clang,unterminated string literal 'obj',Lexical
+820,C,Clang,expected ';' before 'var',Syntactic
+821,Python,Python,expected ')' matching '(' before 'total',Syntactic
+822,C++,Clang,IndexError: 'sum' index out of range,Semantic
+823,C++,GCC,expected '}' at end of input near 'float',Syntactic
+824,C++,Clang,invalid token '%',Lexical
+825,C,Clang,unexpected character 'list',Lexical
+826,C,GCC,TypeError: unsupported operand types for '<',Semantic
+827,C,Clang,use of undeclared identifier 'int',Semantic
+828,Python,Python,IndexError: 'size' index out of range,Semantic
+829,Python,Python,invalid token 'min',Lexical
+830,C++,GCC,invalid token '!',Lexical
+831,C++,GCC,stray 'width' in program,Lexical
+832,C++,Clang,stray 'size' in program,Lexical
+833,C,Clang,incompatible types when assigning 'admin' to 'admin',Semantic
+834,C++,Clang,IndexError: '?' index out of range,Semantic
+835,Python,Python,missing whitespace after 'j',Lexical
+836,C,GCC,invalid token '+',Lexical
+837,C,Clang,syntax error near '&',Syntactic
+838,Python,Python,incompatible types when assigning 'flag' to 'flag',Semantic
+839,C,Clang,stray '|' in program,Lexical
+840,C,GCC,expected ')' matching '(' before 'buffer',Syntactic
+841,Python,Python,expected '}' at end of input near '|',Syntactic
+842,C++,Clang,incompatible types when assigning '*' to '*',Semantic
+843,C++,Clang,unexpected 'array',Syntactic
+844,C,GCC,expected ';' before 'ptr',Syntactic
+845,Python,Python,unexpected 'admin',Syntactic
+846,C++,Clang,missing 'data' in expression,Syntactic
+847,C++,GCC,expected '}' at end of input near '*',Syntactic
+848,C,Clang,invalid token 'user',Lexical
+849,C++,GCC,stray 'total' in program,Lexical
+850,Python,Python,unterminated string literal 'type',Lexical
+851,C,Clang,TypeError: unsupported operand types for 'var',Semantic
+852,C,Clang,stray 'min' in program,Lexical
+853,C,Clang,unterminated string literal 'ptr',Lexical
+854,C,GCC,redefinition of 'beta',Semantic
+855,C++,Clang,incompatible types when assigning 'name' to 'name',Semantic
+856,C,Clang,expected ')' matching '(' before 'width',Syntactic
+857,Python,Python,redefinition of 'total',Semantic
+858,C++,GCC,unexpected 'val',Syntactic
+859,Python,Python,incompatible types when assigning 'status' to 'status',Semantic
+860,Python,Python,redefinition of '&',Semantic
+861,Python,Python,cannot convert 'array' to pointer,Semantic
+862,C,GCC,use of undeclared identifier 'count',Semantic
+863,C,GCC,IndexError: 'min' index out of range,Semantic
+864,C++,GCC,expected ';' before 'buffer',Syntactic
+865,Python,Python,unterminated string literal 'min',Lexical
+866,C,GCC,syntax error near 'min',Syntactic
+867,C,Clang,invalid suffix 'result' on integer constant,Lexical
+868,C,Clang,invalid token '@',Lexical
+869,C++,GCC,invalid character 'obj' in identifier,Lexical
+870,C++,Clang,invalid token '>',Lexical
+871,C,Clang,IndexError: 'mode' index out of range,Semantic
+872,Python,Python,IndexError: 'str' index out of range,Semantic
+873,C,Clang,cannot convert 'name' to pointer,Semantic
+874,C++,Clang,unexpected 'str',Syntactic
+875,C++,Clang,cannot convert 'width' to pointer,Semantic
+876,C++,GCC,invalid character 'sum' in identifier,Lexical
+877,C++,Clang,use of undeclared identifier 'omega',Semantic
+878,C,Clang,missing '*' in expression,Syntactic
+879,C,Clang,redefinition of 'float',Semantic
+880,C,GCC,variable '|' is uninitialized when used here,Semantic
+881,C,Clang,cannot convert '+' to pointer,Semantic
+882,C,Clang,incompatible types when assigning 'int' to 'int',Semantic
+883,C++,Clang,unexpected character 'key',Lexical
+884,C++,GCC,invalid character 'data' in identifier,Lexical
+885,C,GCC,expected ')' matching '(' before '!',Syntactic
+886,C,GCC,invalid token 'mean',Lexical
+887,C++,Clang,unexpected character 'index',Lexical
+888,C,GCC,invalid token '^',Lexical
+889,C++,Clang,variable 'password' is uninitialized when used here,Semantic
+890,C,GCC,unexpected '~',Syntactic
+891,C++,Clang,unterminated string literal 'str',Lexical
+892,C++,GCC,syntax error near 'user',Syntactic
+893,C++,Clang,stray 'j' in program,Lexical
+894,C,Clang,missing whitespace after 'total',Lexical
+895,C,GCC,stray 'alpha' in program,Lexical
+896,C,Clang,expected ';' before 'val',Syntactic
+897,C++,GCC,use of undeclared identifier 'test',Semantic
+898,C++,GCC,variable 'width' is uninitialized when used here,Semantic
+899,Python,Python,invalid token 'double',Lexical
+900,C++,GCC,invalid character 'int' in identifier,Lexical
+901,C,GCC,missing whitespace after 'size',Lexical
+902,C,GCC,IndexError: 'list' index out of range,Semantic
+903,Python,Python,variable 'i' is uninitialized when used here,Semantic
+904,C,GCC,IndexError: '&' index out of range,Semantic
+905,C++,Clang,invalid suffix '>' on integer constant,Lexical
+906,C++,Clang,cannot convert 'gamma' to pointer,Semantic
+907,C,GCC,IndexError: 'i' index out of range,Semantic
+908,C,Clang,stray 'node' in program,Lexical
+909,C,GCC,TypeError: unsupported operand types for 'num',Semantic
+910,C++,GCC,unterminated string literal 'gamma',Lexical
+911,C++,GCC,unexpected 'size',Syntactic
+912,C++,GCC,TypeError: unsupported operand types for 'count',Semantic
+913,C++,GCC,expected ';' before 'char',Syntactic
+914,C,GCC,TypeError: unsupported operand types for 'ptr',Semantic
+915,C++,Clang,missing whitespace after 'max',Lexical
+916,C++,GCC,expected ')' matching '(' before 'omega',Syntactic
+917,C,GCC,IndexError: 'val' index out of range,Semantic
+918,C,GCC,expected '}' at end of input near 'obj',Syntactic
+919,Python,Python,invalid suffix 'data' on integer constant,Lexical
+920,C,GCC,expected ')' matching '(' before 'double',Syntactic
+921,C,GCC,invalid character 'height' in identifier,Lexical
+922,Python,Python,use of undeclared identifier '>',Semantic
+923,C++,Clang,expected '}' at end of input near 'str',Syntactic
+924,Python,Python,invalid suffix '=' on integer constant,Lexical
+925,Python,Python,expected identifier or '(' before 'total',Syntactic
+926,C,GCC,use of undeclared identifier '@',Semantic
+927,C,GCC,TypeError: unsupported operand types for 'mode',Semantic
+928,C,Clang,expected ';' before 'gamma',Syntactic
+929,Python,Python,expected '}' at end of input near 'key',Syntactic
+930,C,Clang,redefinition of 'state',Semantic
+931,C,Clang,use of undeclared identifier 'total',Semantic
+932,Python,Python,variable 'total' is uninitialized when used here,Semantic
+933,C++,Clang,use of undeclared identifier '/',Semantic
+934,C++,GCC,missing '^' in expression,Syntactic
+935,C++,Clang,redefinition of 'admin',Semantic
+936,Python,Python,unexpected 'num',Syntactic
+937,C++,GCC,expected ';' before '*',Syntactic
+938,C++,Clang,TypeError: unsupported operand types for 'index',Semantic
+939,C,GCC,invalid token 'result',Lexical
+940,Python,Python,missing whitespace after 'result',Lexical
+941,C,Clang,expected ';' before 'list',Syntactic
+942,C++,GCC,expected identifier or '(' before 'index',Syntactic
+943,Python,Python,TypeError: unsupported operand types for 'user',Semantic
+944,C++,Clang,redefinition of 'length',Semantic
+945,C++,Clang,syntax error near 'str',Syntactic
+946,Python,Python,expected ')' matching '(' before 'i',Syntactic
+947,C++,Clang,expected identifier or '(' before '<',Syntactic
+948,Python,Python,variable 'val' is uninitialized when used here,Semantic
+949,Python,Python,syntax error near 'height',Syntactic
+950,C,Clang,unexpected 'index',Syntactic

@@ -1,0 +1,19 @@
+Good morning sir,
+
+My project is titled "Machine Learning-Based Compiler Error Classification".
+
+The objective of this project is to classify compiler error messages into lexical, syntactic, and semantic categories using machine learning techniques.
+
+In this project, I first collected and preprocessed a dataset of compiler error messages.
+
+Then I applied TF-IDF vectorization to convert text into numerical features.
+
+After that, I trained multiple machine learning models including Logistic Regression, Random Forest, SVM, Gradient Boosting, and MLP.
+
+I evaluated all models and selected the best-performing model based on accuracy.
+
+To make the system user-friendly, I developed a Flask-based web application where users can input an error message and get instant classification.
+
+This system helps developers understand errors quickly and also has security relevance since semantic errors can indicate vulnerabilities.
+
+Now I will demonstrate the working of the system.
